@@ -1,0 +1,1985 @@
+date,category,subcategory,amount,type,description,month,month_num,year
+2024-01-01,Income,Salary,61394.27,income,Salary payment,January,1,2024
+2024-01-01,Income,Freelance,9125.44,income,Freelance payment,January,1,2024
+2024-01-01,Housing,Rent,15000.0,expense,Rent payment,January,1,2024
+2024-01-01,Housing,Internet,699.0,expense,Internet payment,January,1,2024
+2024-01-01,Housing,Maintenance,1554.8,expense,Maintenance payment,January,1,2024
+2024-01-01,Food,Groceries,2089.39,expense,Groceries payment,January,1,2024
+2024-01-01,Food,Coffee,331.18,expense,Coffee payment,January,1,2024
+2024-01-01,Transport,Fuel,2258.03,expense,Fuel payment,January,1,2024
+2024-01-01,Transport,Uber,221.23,expense,Uber payment,January,1,2024
+2024-01-01,Transport,Metro,359.95,expense,Metro payment,January,1,2024
+2024-01-01,Entertainment,OTT Subscriptions,720.44,expense,OTT Subscriptions payment,January,1,2024
+2024-01-01,Entertainment,Events,2514.55,expense,Events payment,January,1,2024
+2024-01-01,Health,Gym,2198.14,expense,Gym payment,January,1,2024
+2024-01-01,Health,Insurance,4871.64,expense,Insurance payment,January,1,2024
+2024-01-01,Shopping,Electronics,3257.31,expense,Electronics payment,January,1,2024
+2024-01-01,Savings,Fixed Deposit,13280.61,expense,Fixed Deposit payment,January,1,2024
+2024-01-02,Income,Salary,63294.05,income,Salary payment,January,1,2024
+2024-01-02,Housing,Rent,15000.0,expense,Rent payment,January,1,2024
+2024-01-02,Housing,Internet,699.0,expense,Internet payment,January,1,2024
+2024-01-02,Food,Restaurants,1223.47,expense,Restaurants payment,January,1,2024
+2024-01-02,Food,Food Delivery,395.75,expense,Food Delivery payment,January,1,2024
+2024-01-02,Transport,Metro,140.4,expense,Metro payment,January,1,2024
+2024-01-02,Entertainment,OTT Subscriptions,1135.68,expense,OTT Subscriptions payment,January,1,2024
+2024-01-02,Health,Gym,1766.98,expense,Gym payment,January,1,2024
+2024-01-02,Health,Insurance,3827.39,expense,Insurance payment,January,1,2024
+2024-01-02,Savings,Fixed Deposit,16640.0,expense,Fixed Deposit payment,January,1,2024
+2024-01-03,Income,Salary,57290.48,income,Salary payment,January,1,2024
+2024-01-03,Income,Freelance,9731.8,income,Freelance payment,January,1,2024
+2024-01-03,Housing,Rent,15000.0,expense,Rent payment,January,1,2024
+2024-01-03,Housing,Internet,699.0,expense,Internet payment,January,1,2024
+2024-01-03,Food,Coffee,593.26,expense,Coffee payment,January,1,2024
+2024-01-03,Transport,Metro,465.82,expense,Metro payment,January,1,2024
+2024-01-03,Entertainment,OTT Subscriptions,764.88,expense,OTT Subscriptions payment,January,1,2024
+2024-01-03,Health,Gym,2084.59,expense,Gym payment,January,1,2024
+2024-01-03,Shopping,Books,237.69,expense,Books payment,January,1,2024
+2024-01-03,Investment,Stocks,7392.12,expense,Stocks payment,January,1,2024
+2024-01-03,Investment,Gold,2526.48,expense,Gold payment,January,1,2024
+2024-01-04,Housing,Maintenance,2301.8,expense,Maintenance payment,January,1,2024
+2024-01-04,Entertainment,Events,1586.91,expense,Events payment,January,1,2024
+2024-01-05,Food,Restaurants,1825.88,expense,Restaurants payment,January,1,2024
+2024-01-05,Food,Food Delivery,300.69,expense,Food Delivery payment,January,1,2024
+2024-01-05,Transport,Metro,107.79,expense,Metro payment,January,1,2024
+2024-01-05,Health,Medicine,1780.42,expense,Medicine payment,January,1,2024
+2024-01-05,Shopping,Clothing,2943.96,expense,Clothing payment,January,1,2024
+2024-01-05,Shopping,Electronics,11887.83,expense,Electronics payment,January,1,2024
+2024-01-05,Shopping,Books,580.23,expense,Books payment,January,1,2024
+2024-01-06,Food,Coffee,797.09,expense,Coffee payment,January,1,2024
+2024-01-06,Entertainment,Gaming,604.46,expense,Gaming payment,January,1,2024
+2024-01-06,Shopping,Electronics,10204.34,expense,Electronics payment,January,1,2024
+2024-01-06,Investment,Mutual Funds,3428.03,expense,Mutual Funds payment,January,1,2024
+2024-01-06,Savings,Emergency Fund,4806.54,expense,Emergency Fund payment,January,1,2024
+2024-01-07,Transport,Metro,138.77,expense,Metro payment,January,1,2024
+2024-01-07,Shopping,Clothing,2610.49,expense,Clothing payment,January,1,2024
+2024-01-08,Food,Groceries,2151.76,expense,Groceries payment,January,1,2024
+2024-01-08,Food,Coffee,799.57,expense,Coffee payment,January,1,2024
+2024-01-08,Transport,Fuel,2754.04,expense,Fuel payment,January,1,2024
+2024-01-08,Transport,Uber,975.2,expense,Uber payment,January,1,2024
+2024-01-08,Health,Doctor,1447.43,expense,Doctor payment,January,1,2024
+2024-01-09,Food,Restaurants,1855.49,expense,Restaurants payment,January,1,2024
+2024-01-09,Food,Food Delivery,1197.57,expense,Food Delivery payment,January,1,2024
+2024-01-09,Transport,Metro,333.67,expense,Metro payment,January,1,2024
+2024-01-09,Health,Medicine,534.48,expense,Medicine payment,January,1,2024
+2024-01-09,Shopping,Home Decor,4506.29,expense,Home Decor payment,January,1,2024
+2024-01-10,Food,Coffee,437.47,expense,Coffee payment,January,1,2024
+2024-01-10,Entertainment,Events,1645.71,expense,Events payment,January,1,2024
+2024-01-10,Shopping,Clothing,1852.62,expense,Clothing payment,January,1,2024
+2024-01-11,Housing,Maintenance,2542.76,expense,Maintenance payment,January,1,2024
+2024-01-11,Transport,Metro,365.36,expense,Metro payment,January,1,2024
+2024-01-11,Entertainment,Movies,357.71,expense,Movies payment,January,1,2024
+2024-01-11,Entertainment,Gaming,1195.8,expense,Gaming payment,January,1,2024
+2024-01-11,Investment,Crypto,2694.3,expense,Crypto payment,January,1,2024
+2024-01-11,Savings,Emergency Fund,4313.36,expense,Emergency Fund payment,January,1,2024
+2024-01-12,Food,Restaurants,1569.22,expense,Restaurants payment,January,1,2024
+2024-01-12,Food,Food Delivery,311.6,expense,Food Delivery payment,January,1,2024
+2024-01-12,Transport,Metro,453.24,expense,Metro payment,January,1,2024
+2024-01-12,Health,Medicine,429.4,expense,Medicine payment,January,1,2024
+2024-01-12,Investment,Crypto,4120.46,expense,Crypto payment,January,1,2024
+2024-01-13,Food,Coffee,785.72,expense,Coffee payment,January,1,2024
+2024-01-13,Entertainment,Movies,668.28,expense,Movies payment,January,1,2024
+2024-01-13,Shopping,Books,897.73,expense,Books payment,January,1,2024
+2024-01-14,Housing,Electricity,1031.76,expense,Electricity payment,January,1,2024
+2024-01-14,Shopping,Electronics,14615.21,expense,Electronics payment,January,1,2024
+2024-01-14,Investment,Mutual Funds,4607.38,expense,Mutual Funds payment,January,1,2024
+2024-01-15,Food,Groceries,4126.36,expense,Groceries payment,January,1,2024
+2024-01-15,Food,Coffee,201.01,expense,Coffee payment,January,1,2024
+2024-01-15,Transport,Fuel,2888.36,expense,Fuel payment,January,1,2024
+2024-01-15,Transport,Uber,630.76,expense,Uber payment,January,1,2024
+2024-01-15,Entertainment,Events,2160.59,expense,Events payment,January,1,2024
+2024-01-15,Investment,Gold,2681.79,expense,Gold payment,January,1,2024
+2024-01-16,Food,Restaurants,1869.84,expense,Restaurants payment,January,1,2024
+2024-01-16,Food,Food Delivery,300.49,expense,Food Delivery payment,January,1,2024
+2024-01-16,Transport,Metro,271.96,expense,Metro payment,January,1,2024
+2024-01-16,Shopping,Books,612.36,expense,Books payment,January,1,2024
+2024-01-17,Housing,Electricity,1093.81,expense,Electricity payment,January,1,2024
+2024-01-17,Food,Coffee,709.84,expense,Coffee payment,January,1,2024
+2024-01-17,Transport,Metro,265.78,expense,Metro payment,January,1,2024
+2024-01-17,Shopping,Clothing,4003.86,expense,Clothing payment,January,1,2024
+2024-01-17,Shopping,Home Decor,2413.16,expense,Home Decor payment,January,1,2024
+2024-01-17,Investment,Crypto,1996.79,expense,Crypto payment,January,1,2024
+2024-01-19,Income,Dividends,1214.32,income,Dividends payment,January,1,2024
+2024-01-19,Food,Restaurants,1850.38,expense,Restaurants payment,January,1,2024
+2024-01-19,Food,Food Delivery,466.05,expense,Food Delivery payment,January,1,2024
+2024-01-19,Transport,Metro,377.58,expense,Metro payment,January,1,2024
+2024-01-19,Entertainment,Movies,503.8,expense,Movies payment,January,1,2024
+2024-01-19,Investment,Crypto,2407.04,expense,Crypto payment,January,1,2024
+2024-01-20,Food,Coffee,561.95,expense,Coffee payment,January,1,2024
+2024-01-20,Transport,Metro,187.77,expense,Metro payment,January,1,2024
+2024-01-20,Entertainment,Movies,468.06,expense,Movies payment,January,1,2024
+2024-01-20,Shopping,Clothing,3489.03,expense,Clothing payment,January,1,2024
+2024-01-20,Shopping,Electronics,7122.26,expense,Electronics payment,January,1,2024
+2024-01-20,Shopping,Books,714.2,expense,Books payment,January,1,2024
+2024-01-20,Investment,Stocks,6231.89,expense,Stocks payment,January,1,2024
+2024-01-20,Investment,Mutual Funds,4274.62,expense,Mutual Funds payment,January,1,2024
+2024-01-21,Transport,Metro,107.75,expense,Metro payment,January,1,2024
+2024-01-21,Shopping,Books,321.91,expense,Books payment,January,1,2024
+2024-01-21,Investment,Stocks,7686.21,expense,Stocks payment,January,1,2024
+2024-01-22,Housing,Maintenance,2548.25,expense,Maintenance payment,January,1,2024
+2024-01-22,Food,Groceries,4894.16,expense,Groceries payment,January,1,2024
+2024-01-22,Food,Coffee,264.86,expense,Coffee payment,January,1,2024
+2024-01-22,Transport,Fuel,1538.52,expense,Fuel payment,January,1,2024
+2024-01-22,Transport,Uber,449.57,expense,Uber payment,January,1,2024
+2024-01-22,Entertainment,Events,2226.54,expense,Events payment,January,1,2024
+2024-01-22,Health,Doctor,2431.2,expense,Doctor payment,January,1,2024
+2024-01-22,Shopping,Home Decor,4927.3,expense,Home Decor payment,January,1,2024
+2024-01-23,Housing,Electricity,1952.95,expense,Electricity payment,January,1,2024
+2024-01-23,Food,Restaurants,2571.77,expense,Restaurants payment,January,1,2024
+2024-01-23,Food,Food Delivery,1148.77,expense,Food Delivery payment,January,1,2024
+2024-01-23,Transport,Metro,393.52,expense,Metro payment,January,1,2024
+2024-01-23,Investment,Stocks,9171.42,expense,Stocks payment,January,1,2024
+2024-01-24,Income,Freelance,17764.29,income,Freelance payment,January,1,2024
+2024-01-24,Food,Coffee,404.2,expense,Coffee payment,January,1,2024
+2024-01-24,Entertainment,Gaming,1906.51,expense,Gaming payment,January,1,2024
+2024-01-24,Entertainment,Events,2300.19,expense,Events payment,January,1,2024
+2024-01-24,Investment,Stocks,4551.17,expense,Stocks payment,January,1,2024
+2024-01-25,Entertainment,Gaming,546.65,expense,Gaming payment,January,1,2024
+2024-01-25,Entertainment,Events,1839.66,expense,Events payment,January,1,2024
+2024-01-25,Investment,Crypto,1776.47,expense,Crypto payment,January,1,2024
+2024-01-26,Income,Freelance,13012.03,income,Freelance payment,January,1,2024
+2024-01-26,Food,Restaurants,2243.54,expense,Restaurants payment,January,1,2024
+2024-01-26,Food,Food Delivery,451.54,expense,Food Delivery payment,January,1,2024
+2024-01-26,Shopping,Clothing,4764.25,expense,Clothing payment,January,1,2024
+2024-01-26,Investment,Stocks,7406.12,expense,Stocks payment,January,1,2024
+2024-01-26,Investment,Mutual Funds,2895.19,expense,Mutual Funds payment,January,1,2024
+2024-01-27,Income,Freelance,16466.65,income,Freelance payment,January,1,2024
+2024-01-27,Food,Coffee,513.54,expense,Coffee payment,January,1,2024
+2024-01-27,Transport,Metro,277.09,expense,Metro payment,January,1,2024
+2024-01-27,Investment,Crypto,1010.7,expense,Crypto payment,January,1,2024
+2024-01-28,Transport,Metro,374.95,expense,Metro payment,January,1,2024
+2024-01-28,Investment,Stocks,4161.46,expense,Stocks payment,January,1,2024
+2024-01-29,Income,Freelance,15330.17,income,Freelance payment,January,1,2024
+2024-01-29,Food,Groceries,3481.39,expense,Groceries payment,January,1,2024
+2024-01-29,Food,Coffee,248.27,expense,Coffee payment,January,1,2024
+2024-01-29,Transport,Fuel,1559.79,expense,Fuel payment,January,1,2024
+2024-01-29,Transport,Uber,545.62,expense,Uber payment,January,1,2024
+2024-01-29,Transport,Metro,200.15,expense,Metro payment,January,1,2024
+2024-01-29,Transport,Car Maintenance,4828.6,expense,Car Maintenance payment,January,1,2024
+2024-01-29,Shopping,Electronics,11831.49,expense,Electronics payment,January,1,2024
+2024-01-30,Income,Freelance,10219.42,income,Freelance payment,January,1,2024
+2024-01-30,Food,Restaurants,1324.51,expense,Restaurants payment,January,1,2024
+2024-01-30,Food,Food Delivery,1132.41,expense,Food Delivery payment,January,1,2024
+2024-01-30,Transport,Metro,478.08,expense,Metro payment,January,1,2024
+2024-01-31,Food,Coffee,756.6,expense,Coffee payment,January,1,2024
+2024-01-31,Transport,Metro,379.3,expense,Metro payment,January,1,2024
+2024-01-31,Transport,Car Maintenance,4879.16,expense,Car Maintenance payment,January,1,2024
+2024-01-31,Shopping,Clothing,4969.03,expense,Clothing payment,January,1,2024
+2024-01-31,Shopping,Books,865.71,expense,Books payment,January,1,2024
+2024-02-01,Income,Salary,64802.45,income,Salary payment,February,2,2024
+2024-02-01,Housing,Rent,15000.0,expense,Rent payment,February,2,2024
+2024-02-01,Housing,Internet,699.0,expense,Internet payment,February,2,2024
+2024-02-01,Entertainment,OTT Subscriptions,1290.01,expense,OTT Subscriptions payment,February,2,2024
+2024-02-01,Health,Gym,2320.55,expense,Gym payment,February,2,2024
+2024-02-01,Shopping,Books,630.86,expense,Books payment,February,2,2024
+2024-02-02,Income,Salary,56886.52,income,Salary payment,February,2,2024
+2024-02-02,Housing,Rent,15000.0,expense,Rent payment,February,2,2024
+2024-02-02,Housing,Internet,699.0,expense,Internet payment,February,2,2024
+2024-02-02,Food,Restaurants,2263.07,expense,Restaurants payment,February,2,2024
+2024-02-02,Food,Food Delivery,1273.69,expense,Food Delivery payment,February,2,2024
+2024-02-02,Transport,Metro,365.48,expense,Metro payment,February,2,2024
+2024-02-02,Entertainment,OTT Subscriptions,1480.82,expense,OTT Subscriptions payment,February,2,2024
+2024-02-02,Entertainment,Gaming,1104.12,expense,Gaming payment,February,2,2024
+2024-02-02,Health,Gym,2369.7,expense,Gym payment,February,2,2024
+2024-02-03,Income,Salary,61927.05,income,Salary payment,February,2,2024
+2024-02-03,Housing,Rent,15000.0,expense,Rent payment,February,2,2024
+2024-02-03,Housing,Internet,699.0,expense,Internet payment,February,2,2024
+2024-02-03,Food,Coffee,631.23,expense,Coffee payment,February,2,2024
+2024-02-03,Entertainment,OTT Subscriptions,535.9,expense,OTT Subscriptions payment,February,2,2024
+2024-02-03,Entertainment,Movies,615.58,expense,Movies payment,February,2,2024
+2024-02-03,Health,Gym,2246.77,expense,Gym payment,February,2,2024
+2024-02-03,Health,Doctor,2084.37,expense,Doctor payment,February,2,2024
+2024-02-03,Investment,Stocks,8573.0,expense,Stocks payment,February,2,2024
+2024-02-03,Investment,Gold,3124.67,expense,Gold payment,February,2,2024
+2024-02-04,Housing,Electricity,1845.01,expense,Electricity payment,February,2,2024
+2024-02-04,Transport,Metro,465.13,expense,Metro payment,February,2,2024
+2024-02-04,Transport,Car Maintenance,2575.17,expense,Car Maintenance payment,February,2,2024
+2024-02-04,Entertainment,Events,2511.58,expense,Events payment,February,2,2024
+2024-02-05,Food,Groceries,3724.44,expense,Groceries payment,February,2,2024
+2024-02-05,Food,Coffee,795.62,expense,Coffee payment,February,2,2024
+2024-02-05,Transport,Fuel,1942.85,expense,Fuel payment,February,2,2024
+2024-02-05,Transport,Uber,982.36,expense,Uber payment,February,2,2024
+2024-02-05,Health,Medicine,1291.53,expense,Medicine payment,February,2,2024
+2024-02-06,Food,Restaurants,2115.85,expense,Restaurants payment,February,2,2024
+2024-02-06,Food,Food Delivery,670.72,expense,Food Delivery payment,February,2,2024
+2024-02-06,Transport,Metro,331.83,expense,Metro payment,February,2,2024
+2024-02-06,Entertainment,Movies,447.56,expense,Movies payment,February,2,2024
+2024-02-06,Health,Medicine,1170.93,expense,Medicine payment,February,2,2024
+2024-02-07,Income,Freelance,19443.4,income,Freelance payment,February,2,2024
+2024-02-07,Income,Dividends,2916.25,income,Dividends payment,February,2,2024
+2024-02-07,Food,Coffee,787.97,expense,Coffee payment,February,2,2024
+2024-02-07,Entertainment,Events,1841.43,expense,Events payment,February,2,2024
+2024-02-07,Investment,Stocks,4636.75,expense,Stocks payment,February,2,2024
+2024-02-07,Investment,Mutual Funds,7305.41,expense,Mutual Funds payment,February,2,2024
+2024-02-08,Income,Freelance,17357.83,income,Freelance payment,February,2,2024
+2024-02-08,Transport,Metro,478.5,expense,Metro payment,February,2,2024
+2024-02-08,Entertainment,Gaming,1797.07,expense,Gaming payment,February,2,2024
+2024-02-08,Entertainment,Events,1634.11,expense,Events payment,February,2,2024
+2024-02-08,Investment,Mutual Funds,4936.08,expense,Mutual Funds payment,February,2,2024
+2024-02-08,Savings,Emergency Fund,3111.59,expense,Emergency Fund payment,February,2,2024
+2024-02-09,Housing,Maintenance,2214.2,expense,Maintenance payment,February,2,2024
+2024-02-09,Food,Restaurants,1861.16,expense,Restaurants payment,February,2,2024
+2024-02-09,Food,Food Delivery,1473.41,expense,Food Delivery payment,February,2,2024
+2024-02-09,Transport,Metro,259.26,expense,Metro payment,February,2,2024
+2024-02-09,Entertainment,Movies,724.02,expense,Movies payment,February,2,2024
+2024-02-09,Shopping,Clothing,4147.18,expense,Clothing payment,February,2,2024
+2024-02-09,Shopping,Home Decor,3040.6,expense,Home Decor payment,February,2,2024
+2024-02-09,Shopping,Books,812.13,expense,Books payment,February,2,2024
+2024-02-09,Savings,Emergency Fund,4701.59,expense,Emergency Fund payment,February,2,2024
+2024-02-10,Income,Freelance,17876.09,income,Freelance payment,February,2,2024
+2024-02-10,Income,Dividends,824.98,income,Dividends payment,February,2,2024
+2024-02-10,Food,Coffee,596.63,expense,Coffee payment,February,2,2024
+2024-02-10,Transport,Metro,105.94,expense,Metro payment,February,2,2024
+2024-02-10,Health,Medicine,1535.09,expense,Medicine payment,February,2,2024
+2024-02-10,Investment,Stocks,6526.87,expense,Stocks payment,February,2,2024
+2024-02-10,Investment,Crypto,4132.91,expense,Crypto payment,February,2,2024
+2024-02-11,Housing,Electricity,1374.78,expense,Electricity payment,February,2,2024
+2024-02-11,Entertainment,Gaming,345.42,expense,Gaming payment,February,2,2024
+2024-02-11,Health,Medicine,695.03,expense,Medicine payment,February,2,2024
+2024-02-11,Investment,Crypto,3807.12,expense,Crypto payment,February,2,2024
+2024-02-12,Food,Groceries,2685.48,expense,Groceries payment,February,2,2024
+2024-02-12,Food,Coffee,403.36,expense,Coffee payment,February,2,2024
+2024-02-12,Transport,Fuel,2180.25,expense,Fuel payment,February,2,2024
+2024-02-12,Transport,Uber,532.79,expense,Uber payment,February,2,2024
+2024-02-12,Transport,Metro,270.71,expense,Metro payment,February,2,2024
+2024-02-12,Health,Medicine,1697.19,expense,Medicine payment,February,2,2024
+2024-02-12,Health,Doctor,741.41,expense,Doctor payment,February,2,2024
+2024-02-12,Investment,Crypto,2414.39,expense,Crypto payment,February,2,2024
+2024-02-13,Food,Restaurants,1379.12,expense,Restaurants payment,February,2,2024
+2024-02-13,Food,Food Delivery,993.5,expense,Food Delivery payment,February,2,2024
+2024-02-13,Transport,Metro,362.69,expense,Metro payment,February,2,2024
+2024-02-13,Entertainment,Movies,722.69,expense,Movies payment,February,2,2024
+2024-02-13,Investment,Mutual Funds,7574.51,expense,Mutual Funds payment,February,2,2024
+2024-02-14,Housing,Maintenance,2674.66,expense,Maintenance payment,February,2,2024
+2024-02-14,Food,Coffee,539.79,expense,Coffee payment,February,2,2024
+2024-02-14,Transport,Metro,156.75,expense,Metro payment,February,2,2024
+2024-02-14,Entertainment,Movies,673.06,expense,Movies payment,February,2,2024
+2024-02-14,Shopping,Books,242.09,expense,Books payment,February,2,2024
+2024-02-15,Transport,Metro,271.97,expense,Metro payment,February,2,2024
+2024-02-15,Health,Medicine,911.47,expense,Medicine payment,February,2,2024
+2024-02-15,Shopping,Clothing,2205.68,expense,Clothing payment,February,2,2024
+2024-02-15,Shopping,Home Decor,1649.84,expense,Home Decor payment,February,2,2024
+2024-02-15,Investment,Stocks,8229.1,expense,Stocks payment,February,2,2024
+2024-02-16,Housing,Electricity,1834.12,expense,Electricity payment,February,2,2024
+2024-02-16,Housing,Maintenance,546.85,expense,Maintenance payment,February,2,2024
+2024-02-16,Food,Restaurants,2802.91,expense,Restaurants payment,February,2,2024
+2024-02-16,Food,Food Delivery,1334.53,expense,Food Delivery payment,February,2,2024
+2024-02-16,Transport,Metro,329.36,expense,Metro payment,February,2,2024
+2024-02-16,Entertainment,Gaming,237.54,expense,Gaming payment,February,2,2024
+2024-02-16,Shopping,Home Decor,4300.18,expense,Home Decor payment,February,2,2024
+2024-02-17,Housing,Maintenance,1774.88,expense,Maintenance payment,February,2,2024
+2024-02-17,Food,Coffee,743.55,expense,Coffee payment,February,2,2024
+2024-02-17,Transport,Metro,390.95,expense,Metro payment,February,2,2024
+2024-02-17,Entertainment,Events,993.18,expense,Events payment,February,2,2024
+2024-02-18,Transport,Metro,127.31,expense,Metro payment,February,2,2024
+2024-02-18,Entertainment,Events,1768.34,expense,Events payment,February,2,2024
+2024-02-18,Shopping,Clothing,4326.79,expense,Clothing payment,February,2,2024
+2024-02-18,Shopping,Electronics,13235.25,expense,Electronics payment,February,2,2024
+2024-02-19,Food,Groceries,3426.89,expense,Groceries payment,February,2,2024
+2024-02-19,Food,Coffee,290.52,expense,Coffee payment,February,2,2024
+2024-02-19,Transport,Fuel,1592.81,expense,Fuel payment,February,2,2024
+2024-02-19,Transport,Uber,282.8,expense,Uber payment,February,2,2024
+2024-02-20,Income,Dividends,736.26,income,Dividends payment,February,2,2024
+2024-02-20,Food,Restaurants,2309.33,expense,Restaurants payment,February,2,2024
+2024-02-20,Food,Food Delivery,1087.88,expense,Food Delivery payment,February,2,2024
+2024-02-20,Entertainment,Events,1374.55,expense,Events payment,February,2,2024
+2024-02-21,Food,Coffee,454.04,expense,Coffee payment,February,2,2024
+2024-02-21,Transport,Metro,245.04,expense,Metro payment,February,2,2024
+2024-02-21,Health,Doctor,692.91,expense,Doctor payment,February,2,2024
+2024-02-21,Shopping,Electronics,12021.37,expense,Electronics payment,February,2,2024
+2024-02-21,Investment,Stocks,5357.35,expense,Stocks payment,February,2,2024
+2024-02-21,Investment,Crypto,2506.88,expense,Crypto payment,February,2,2024
+2024-02-22,Transport,Metro,370.55,expense,Metro payment,February,2,2024
+2024-02-23,Food,Restaurants,2503.15,expense,Restaurants payment,February,2,2024
+2024-02-23,Food,Food Delivery,466.08,expense,Food Delivery payment,February,2,2024
+2024-02-23,Transport,Metro,356.47,expense,Metro payment,February,2,2024
+2024-02-23,Entertainment,Gaming,1722.61,expense,Gaming payment,February,2,2024
+2024-02-23,Shopping,Home Decor,2468.63,expense,Home Decor payment,February,2,2024
+2024-02-23,Investment,Gold,1213.03,expense,Gold payment,February,2,2024
+2024-02-24,Housing,Maintenance,2827.06,expense,Maintenance payment,February,2,2024
+2024-02-24,Food,Coffee,703.51,expense,Coffee payment,February,2,2024
+2024-02-24,Entertainment,Movies,443.44,expense,Movies payment,February,2,2024
+2024-02-24,Health,Medicine,1469.97,expense,Medicine payment,February,2,2024
+2024-02-24,Shopping,Clothing,1316.9,expense,Clothing payment,February,2,2024
+2024-02-24,Investment,Crypto,2152.41,expense,Crypto payment,February,2,2024
+2024-02-24,Savings,Emergency Fund,3259.48,expense,Emergency Fund payment,February,2,2024
+2024-02-25,Housing,Electricity,1886.18,expense,Electricity payment,February,2,2024
+2024-02-25,Transport,Metro,306.15,expense,Metro payment,February,2,2024
+2024-02-25,Entertainment,Movies,514.62,expense,Movies payment,February,2,2024
+2024-02-25,Shopping,Clothing,4898.62,expense,Clothing payment,February,2,2024
+2024-02-25,Shopping,Electronics,8838.77,expense,Electronics payment,February,2,2024
+2024-02-26,Income,Dividends,2471.3,income,Dividends payment,February,2,2024
+2024-02-26,Food,Groceries,3884.77,expense,Groceries payment,February,2,2024
+2024-02-26,Food,Coffee,662.9,expense,Coffee payment,February,2,2024
+2024-02-26,Transport,Fuel,2602.78,expense,Fuel payment,February,2,2024
+2024-02-26,Transport,Uber,466.01,expense,Uber payment,February,2,2024
+2024-02-26,Transport,Metro,318.41,expense,Metro payment,February,2,2024
+2024-02-26,Shopping,Electronics,12090.48,expense,Electronics payment,February,2,2024
+2024-02-26,Investment,Stocks,4396.29,expense,Stocks payment,February,2,2024
+2024-02-26,Investment,Mutual Funds,7600.23,expense,Mutual Funds payment,February,2,2024
+2024-02-27,Food,Restaurants,2452.1,expense,Restaurants payment,February,2,2024
+2024-02-27,Food,Food Delivery,1338.96,expense,Food Delivery payment,February,2,2024
+2024-02-27,Transport,Metro,149.79,expense,Metro payment,February,2,2024
+2024-02-27,Investment,Crypto,3409.81,expense,Crypto payment,February,2,2024
+2024-02-28,Income,Dividends,2152.3,income,Dividends payment,February,2,2024
+2024-02-28,Food,Coffee,455.67,expense,Coffee payment,February,2,2024
+2024-02-28,Entertainment,Movies,735.02,expense,Movies payment,February,2,2024
+2024-02-28,Shopping,Electronics,10287.66,expense,Electronics payment,February,2,2024
+2024-02-28,Investment,Crypto,3430.29,expense,Crypto payment,February,2,2024
+2024-02-28,Savings,Emergency Fund,2201.7,expense,Emergency Fund payment,February,2,2024
+2024-02-29,Shopping,Books,788.54,expense,Books payment,February,2,2024
+2024-03-01,Income,Salary,59462.73,income,Salary payment,March,3,2024
+2024-03-01,Housing,Rent,15000.0,expense,Rent payment,March,3,2024
+2024-03-01,Housing,Internet,699.0,expense,Internet payment,March,3,2024
+2024-03-01,Food,Restaurants,1630.11,expense,Restaurants payment,March,3,2024
+2024-03-01,Food,Food Delivery,1378.41,expense,Food Delivery payment,March,3,2024
+2024-03-01,Transport,Metro,135.12,expense,Metro payment,March,3,2024
+2024-03-01,Entertainment,OTT Subscriptions,1345.52,expense,OTT Subscriptions payment,March,3,2024
+2024-03-01,Entertainment,Events,1855.43,expense,Events payment,March,3,2024
+2024-03-01,Health,Gym,2391.33,expense,Gym payment,March,3,2024
+2024-03-01,Investment,Stocks,4406.86,expense,Stocks payment,March,3,2024
+2024-03-01,Investment,Mutual Funds,6742.24,expense,Mutual Funds payment,March,3,2024
+2024-03-01,Investment,Crypto,3216.09,expense,Crypto payment,March,3,2024
+2024-03-02,Income,Salary,60516.47,income,Salary payment,March,3,2024
+2024-03-02,Income,Dividends,1273.23,income,Dividends payment,March,3,2024
+2024-03-02,Housing,Rent,15000.0,expense,Rent payment,March,3,2024
+2024-03-02,Housing,Internet,699.0,expense,Internet payment,March,3,2024
+2024-03-02,Food,Coffee,694.0,expense,Coffee payment,March,3,2024
+2024-03-02,Transport,Metro,488.95,expense,Metro payment,March,3,2024
+2024-03-02,Entertainment,OTT Subscriptions,949.97,expense,OTT Subscriptions payment,March,3,2024
+2024-03-02,Health,Gym,2280.26,expense,Gym payment,March,3,2024
+2024-03-02,Shopping,Books,299.33,expense,Books payment,March,3,2024
+2024-03-03,Income,Salary,64409.04,income,Salary payment,March,3,2024
+2024-03-03,Housing,Rent,15000.0,expense,Rent payment,March,3,2024
+2024-03-03,Housing,Internet,699.0,expense,Internet payment,March,3,2024
+2024-03-03,Housing,Maintenance,1257.06,expense,Maintenance payment,March,3,2024
+2024-03-03,Transport,Metro,301.03,expense,Metro payment,March,3,2024
+2024-03-03,Entertainment,OTT Subscriptions,1441.61,expense,OTT Subscriptions payment,March,3,2024
+2024-03-03,Health,Gym,2105.14,expense,Gym payment,March,3,2024
+2024-03-03,Shopping,Electronics,2591.0,expense,Electronics payment,March,3,2024
+2024-03-04,Food,Groceries,4414.06,expense,Groceries payment,March,3,2024
+2024-03-04,Food,Coffee,610.99,expense,Coffee payment,March,3,2024
+2024-03-04,Transport,Fuel,1946.15,expense,Fuel payment,March,3,2024
+2024-03-04,Transport,Uber,258.38,expense,Uber payment,March,3,2024
+2024-03-04,Transport,Metro,275.84,expense,Metro payment,March,3,2024
+2024-03-04,Shopping,Home Decor,2167.43,expense,Home Decor payment,March,3,2024
+2024-03-04,Savings,Emergency Fund,2870.64,expense,Emergency Fund payment,March,3,2024
+2024-03-05,Food,Restaurants,899.25,expense,Restaurants payment,March,3,2024
+2024-03-05,Food,Food Delivery,692.92,expense,Food Delivery payment,March,3,2024
+2024-03-05,Transport,Metro,225.09,expense,Metro payment,March,3,2024
+2024-03-05,Health,Doctor,2863.08,expense,Doctor payment,March,3,2024
+2024-03-05,Investment,Stocks,6464.26,expense,Stocks payment,March,3,2024
+2024-03-06,Food,Coffee,658.31,expense,Coffee payment,March,3,2024
+2024-03-06,Transport,Metro,260.23,expense,Metro payment,March,3,2024
+2024-03-06,Entertainment,Events,1760.64,expense,Events payment,March,3,2024
+2024-03-06,Shopping,Home Decor,4887.87,expense,Home Decor payment,March,3,2024
+2024-03-07,Housing,Electricity,964.44,expense,Electricity payment,March,3,2024
+2024-03-07,Transport,Metro,282.8,expense,Metro payment,March,3,2024
+2024-03-08,Food,Restaurants,2313.31,expense,Restaurants payment,March,3,2024
+2024-03-08,Food,Food Delivery,1125.65,expense,Food Delivery payment,March,3,2024
+2024-03-08,Transport,Metro,289.84,expense,Metro payment,March,3,2024
+2024-03-08,Investment,Stocks,7765.09,expense,Stocks payment,March,3,2024
+2024-03-08,Investment,Mutual Funds,7689.23,expense,Mutual Funds payment,March,3,2024
+2024-03-08,Investment,Crypto,1075.75,expense,Crypto payment,March,3,2024
+2024-03-09,Food,Coffee,723.69,expense,Coffee payment,March,3,2024
+2024-03-09,Transport,Car Maintenance,1121.37,expense,Car Maintenance payment,March,3,2024
+2024-03-10,Shopping,Books,741.3,expense,Books payment,March,3,2024
+2024-03-11,Food,Groceries,3327.13,expense,Groceries payment,March,3,2024
+2024-03-11,Food,Coffee,353.87,expense,Coffee payment,March,3,2024
+2024-03-11,Transport,Fuel,2218.62,expense,Fuel payment,March,3,2024
+2024-03-11,Transport,Uber,361.65,expense,Uber payment,March,3,2024
+2024-03-11,Transport,Metro,473.21,expense,Metro payment,March,3,2024
+2024-03-11,Entertainment,Movies,607.84,expense,Movies payment,March,3,2024
+2024-03-11,Shopping,Electronics,7372.92,expense,Electronics payment,March,3,2024
+2024-03-11,Shopping,Books,816.61,expense,Books payment,March,3,2024
+2024-03-11,Investment,Stocks,6852.47,expense,Stocks payment,March,3,2024
+2024-03-12,Food,Restaurants,2114.74,expense,Restaurants payment,March,3,2024
+2024-03-12,Food,Food Delivery,1389.52,expense,Food Delivery payment,March,3,2024
+2024-03-12,Transport,Metro,329.65,expense,Metro payment,March,3,2024
+2024-03-13,Income,Freelance,13519.43,income,Freelance payment,March,3,2024
+2024-03-13,Income,Dividends,2957.48,income,Dividends payment,March,3,2024
+2024-03-13,Food,Coffee,525.98,expense,Coffee payment,March,3,2024
+2024-03-13,Transport,Metro,475.42,expense,Metro payment,March,3,2024
+2024-03-13,Entertainment,Events,906.24,expense,Events payment,March,3,2024
+2024-03-14,Income,Dividends,2173.14,income,Dividends payment,March,3,2024
+2024-03-14,Housing,Maintenance,1309.0,expense,Maintenance payment,March,3,2024
+2024-03-14,Transport,Metro,204.31,expense,Metro payment,March,3,2024
+2024-03-14,Health,Doctor,2134.21,expense,Doctor payment,March,3,2024
+2024-03-14,Shopping,Electronics,3536.92,expense,Electronics payment,March,3,2024
+2024-03-14,Savings,Emergency Fund,4748.39,expense,Emergency Fund payment,March,3,2024
+2024-03-15,Housing,Maintenance,882.96,expense,Maintenance payment,March,3,2024
+2024-03-15,Food,Restaurants,2369.34,expense,Restaurants payment,March,3,2024
+2024-03-15,Food,Food Delivery,1026.89,expense,Food Delivery payment,March,3,2024
+2024-03-15,Transport,Metro,319.69,expense,Metro payment,March,3,2024
+2024-03-15,Shopping,Electronics,7807.72,expense,Electronics payment,March,3,2024
+2024-03-15,Shopping,Books,651.33,expense,Books payment,March,3,2024
+2024-03-15,Investment,Stocks,6833.54,expense,Stocks payment,March,3,2024
+2024-03-15,Investment,Gold,2312.47,expense,Gold payment,March,3,2024
+2024-03-16,Income,Freelance,8081.02,income,Freelance payment,March,3,2024
+2024-03-16,Housing,Electricity,1412.45,expense,Electricity payment,March,3,2024
+2024-03-16,Food,Coffee,472.06,expense,Coffee payment,March,3,2024
+2024-03-16,Transport,Metro,282.72,expense,Metro payment,March,3,2024
+2024-03-16,Transport,Car Maintenance,2580.7,expense,Car Maintenance payment,March,3,2024
+2024-03-16,Shopping,Electronics,6478.88,expense,Electronics payment,March,3,2024
+2024-03-16,Shopping,Home Decor,4973.56,expense,Home Decor payment,March,3,2024
+2024-03-16,Investment,Stocks,9536.43,expense,Stocks payment,March,3,2024
+2024-03-16,Investment,Mutual Funds,4453.2,expense,Mutual Funds payment,March,3,2024
+2024-03-17,Investment,Crypto,1090.94,expense,Crypto payment,March,3,2024
+2024-03-18,Food,Groceries,3038.48,expense,Groceries payment,March,3,2024
+2024-03-18,Food,Coffee,365.39,expense,Coffee payment,March,3,2024
+2024-03-18,Transport,Fuel,2906.12,expense,Fuel payment,March,3,2024
+2024-03-18,Transport,Uber,780.02,expense,Uber payment,March,3,2024
+2024-03-18,Transport,Metro,423.79,expense,Metro payment,March,3,2024
+2024-03-18,Entertainment,Events,1015.2,expense,Events payment,March,3,2024
+2024-03-18,Health,Medicine,260.44,expense,Medicine payment,March,3,2024
+2024-03-18,Shopping,Electronics,11627.03,expense,Electronics payment,March,3,2024
+2024-03-18,Investment,Crypto,3015.58,expense,Crypto payment,March,3,2024
+2024-03-19,Food,Restaurants,1301.66,expense,Restaurants payment,March,3,2024
+2024-03-19,Food,Food Delivery,662.12,expense,Food Delivery payment,March,3,2024
+2024-03-19,Transport,Metro,364.08,expense,Metro payment,March,3,2024
+2024-03-19,Entertainment,Gaming,1907.34,expense,Gaming payment,March,3,2024
+2024-03-19,Savings,Emergency Fund,3129.38,expense,Emergency Fund payment,March,3,2024
+2024-03-20,Food,Coffee,624.55,expense,Coffee payment,March,3,2024
+2024-03-20,Health,Medicine,637.15,expense,Medicine payment,March,3,2024
+2024-03-20,Shopping,Books,779.67,expense,Books payment,March,3,2024
+2024-03-21,Transport,Metro,447.79,expense,Metro payment,March,3,2024
+2024-03-21,Entertainment,Gaming,1886.89,expense,Gaming payment,March,3,2024
+2024-03-21,Health,Medicine,1999.23,expense,Medicine payment,March,3,2024
+2024-03-22,Housing,Maintenance,2953.3,expense,Maintenance payment,March,3,2024
+2024-03-22,Food,Restaurants,1673.73,expense,Restaurants payment,March,3,2024
+2024-03-22,Food,Food Delivery,1307.68,expense,Food Delivery payment,March,3,2024
+2024-03-22,Health,Medicine,669.39,expense,Medicine payment,March,3,2024
+2024-03-23,Food,Coffee,494.36,expense,Coffee payment,March,3,2024
+2024-03-23,Transport,Metro,417.99,expense,Metro payment,March,3,2024
+2024-03-23,Shopping,Clothing,1135.3,expense,Clothing payment,March,3,2024
+2024-03-24,Income,Freelance,12585.99,income,Freelance payment,March,3,2024
+2024-03-24,Entertainment,Gaming,1192.96,expense,Gaming payment,March,3,2024
+2024-03-24,Entertainment,Events,1823.54,expense,Events payment,March,3,2024
+2024-03-24,Shopping,Clothing,4252.63,expense,Clothing payment,March,3,2024
+2024-03-24,Investment,Stocks,3674.2,expense,Stocks payment,March,3,2024
+2024-03-24,Investment,Mutual Funds,3151.59,expense,Mutual Funds payment,March,3,2024
+2024-03-25,Food,Groceries,4970.7,expense,Groceries payment,March,3,2024
+2024-03-25,Food,Coffee,335.51,expense,Coffee payment,March,3,2024
+2024-03-25,Transport,Fuel,2526.06,expense,Fuel payment,March,3,2024
+2024-03-25,Transport,Uber,878.29,expense,Uber payment,March,3,2024
+2024-03-25,Entertainment,Gaming,882.68,expense,Gaming payment,March,3,2024
+2024-03-25,Health,Medicine,217.01,expense,Medicine payment,March,3,2024
+2024-03-25,Investment,Mutual Funds,5168.96,expense,Mutual Funds payment,March,3,2024
+2024-03-25,Investment,Crypto,1845.67,expense,Crypto payment,March,3,2024
+2024-03-26,Income,Dividends,685.87,income,Dividends payment,March,3,2024
+2024-03-26,Food,Restaurants,1908.77,expense,Restaurants payment,March,3,2024
+2024-03-26,Food,Food Delivery,339.48,expense,Food Delivery payment,March,3,2024
+2024-03-26,Shopping,Clothing,1649.8,expense,Clothing payment,March,3,2024
+2024-03-26,Investment,Gold,4953.91,expense,Gold payment,March,3,2024
+2024-03-27,Housing,Electricity,1324.51,expense,Electricity payment,March,3,2024
+2024-03-27,Food,Coffee,404.36,expense,Coffee payment,March,3,2024
+2024-03-27,Entertainment,Events,1183.32,expense,Events payment,March,3,2024
+2024-03-27,Investment,Mutual Funds,5711.7,expense,Mutual Funds payment,March,3,2024
+2024-03-27,Savings,Emergency Fund,2462.66,expense,Emergency Fund payment,March,3,2024
+2024-03-28,Transport,Metro,102.08,expense,Metro payment,March,3,2024
+2024-03-28,Entertainment,Events,968.48,expense,Events payment,March,3,2024
+2024-03-28,Shopping,Electronics,6600.89,expense,Electronics payment,March,3,2024
+2024-03-28,Shopping,Home Decor,3191.2,expense,Home Decor payment,March,3,2024
+2024-03-28,Investment,Gold,4604.54,expense,Gold payment,March,3,2024
+2024-03-29,Food,Restaurants,847.1,expense,Restaurants payment,March,3,2024
+2024-03-29,Food,Food Delivery,661.36,expense,Food Delivery payment,March,3,2024
+2024-03-29,Transport,Metro,125.31,expense,Metro payment,March,3,2024
+2024-03-29,Entertainment,Events,1129.25,expense,Events payment,March,3,2024
+2024-03-29,Shopping,Home Decor,1870.96,expense,Home Decor payment,March,3,2024
+2024-03-30,Housing,Maintenance,1301.66,expense,Maintenance payment,March,3,2024
+2024-03-30,Food,Coffee,768.37,expense,Coffee payment,March,3,2024
+2024-03-30,Transport,Metro,225.67,expense,Metro payment,March,3,2024
+2024-03-30,Investment,Stocks,6946.95,expense,Stocks payment,March,3,2024
+2024-03-31,Transport,Metro,377.13,expense,Metro payment,March,3,2024
+2024-03-31,Shopping,Books,992.56,expense,Books payment,March,3,2024
+2024-04-01,Income,Salary,60436.45,income,Salary payment,April,4,2024
+2024-04-01,Housing,Rent,15000.0,expense,Rent payment,April,4,2024
+2024-04-01,Housing,Internet,699.0,expense,Internet payment,April,4,2024
+2024-04-01,Housing,Maintenance,2422.39,expense,Maintenance payment,April,4,2024
+2024-04-01,Food,Groceries,3972.8,expense,Groceries payment,April,4,2024
+2024-04-01,Food,Coffee,413.01,expense,Coffee payment,April,4,2024
+2024-04-01,Transport,Fuel,2470.5,expense,Fuel payment,April,4,2024
+2024-04-01,Transport,Uber,235.44,expense,Uber payment,April,4,2024
+2024-04-01,Entertainment,OTT Subscriptions,899.62,expense,OTT Subscriptions payment,April,4,2024
+2024-04-01,Health,Gym,1510.55,expense,Gym payment,April,4,2024
+2024-04-01,Health,Insurance,3556.39,expense,Insurance payment,April,4,2024
+2024-04-01,Savings,Emergency Fund,2313.65,expense,Emergency Fund payment,April,4,2024
+2024-04-01,Savings,Fixed Deposit,11239.63,expense,Fixed Deposit payment,April,4,2024
+2024-04-02,Income,Salary,64617.28,income,Salary payment,April,4,2024
+2024-04-02,Income,Freelance,19110.14,income,Freelance payment,April,4,2024
+2024-04-02,Income,Dividends,1279.73,income,Dividends payment,April,4,2024
+2024-04-02,Housing,Rent,15000.0,expense,Rent payment,April,4,2024
+2024-04-02,Housing,Internet,699.0,expense,Internet payment,April,4,2024
+2024-04-02,Food,Restaurants,1595.41,expense,Restaurants payment,April,4,2024
+2024-04-02,Food,Food Delivery,1136.12,expense,Food Delivery payment,April,4,2024
+2024-04-02,Transport,Metro,220.11,expense,Metro payment,April,4,2024
+2024-04-02,Entertainment,OTT Subscriptions,615.09,expense,OTT Subscriptions payment,April,4,2024
+2024-04-02,Health,Gym,1664.35,expense,Gym payment,April,4,2024
+2024-04-02,Health,Insurance,2523.36,expense,Insurance payment,April,4,2024
+2024-04-02,Savings,Emergency Fund,3842.32,expense,Emergency Fund payment,April,4,2024
+2024-04-02,Savings,Fixed Deposit,7959.87,expense,Fixed Deposit payment,April,4,2024
+2024-04-03,Income,Salary,60922.03,income,Salary payment,April,4,2024
+2024-04-03,Housing,Rent,15000.0,expense,Rent payment,April,4,2024
+2024-04-03,Housing,Internet,699.0,expense,Internet payment,April,4,2024
+2024-04-03,Housing,Maintenance,754.38,expense,Maintenance payment,April,4,2024
+2024-04-03,Food,Coffee,723.19,expense,Coffee payment,April,4,2024
+2024-04-03,Transport,Metro,230.39,expense,Metro payment,April,4,2024
+2024-04-03,Entertainment,OTT Subscriptions,762.35,expense,OTT Subscriptions payment,April,4,2024
+2024-04-03,Health,Gym,2096.97,expense,Gym payment,April,4,2024
+2024-04-03,Investment,Gold,1535.79,expense,Gold payment,April,4,2024
+2024-04-03,Savings,Emergency Fund,2916.14,expense,Emergency Fund payment,April,4,2024
+2024-04-04,Transport,Metro,253.48,expense,Metro payment,April,4,2024
+2024-04-04,Shopping,Electronics,6089.54,expense,Electronics payment,April,4,2024
+2024-04-04,Shopping,Books,487.23,expense,Books payment,April,4,2024
+2024-04-04,Investment,Stocks,3955.74,expense,Stocks payment,April,4,2024
+2024-04-05,Food,Restaurants,706.68,expense,Restaurants payment,April,4,2024
+2024-04-05,Food,Food Delivery,337.03,expense,Food Delivery payment,April,4,2024
+2024-04-05,Shopping,Home Decor,1013.93,expense,Home Decor payment,April,4,2024
+2024-04-05,Investment,Gold,3875.92,expense,Gold payment,April,4,2024
+2024-04-06,Income,Dividends,2575.18,income,Dividends payment,April,4,2024
+2024-04-06,Food,Coffee,799.59,expense,Coffee payment,April,4,2024
+2024-04-06,Transport,Metro,239.43,expense,Metro payment,April,4,2024
+2024-04-06,Investment,Mutual Funds,3239.72,expense,Mutual Funds payment,April,4,2024
+2024-04-06,Investment,Gold,2403.26,expense,Gold payment,April,4,2024
+2024-04-07,Transport,Metro,443.21,expense,Metro payment,April,4,2024
+2024-04-07,Entertainment,Gaming,1932.99,expense,Gaming payment,April,4,2024
+2024-04-07,Shopping,Electronics,13259.02,expense,Electronics payment,April,4,2024
+2024-04-08,Food,Groceries,4640.38,expense,Groceries payment,April,4,2024
+2024-04-08,Food,Coffee,255.86,expense,Coffee payment,April,4,2024
+2024-04-08,Transport,Fuel,2273.42,expense,Fuel payment,April,4,2024
+2024-04-08,Transport,Uber,422.58,expense,Uber payment,April,4,2024
+2024-04-08,Entertainment,Events,2435.34,expense,Events payment,April,4,2024
+2024-04-08,Shopping,Books,627.54,expense,Books payment,April,4,2024
+2024-04-09,Food,Restaurants,1359.35,expense,Restaurants payment,April,4,2024
+2024-04-09,Food,Food Delivery,1119.06,expense,Food Delivery payment,April,4,2024
+2024-04-09,Transport,Metro,139.83,expense,Metro payment,April,4,2024
+2024-04-09,Entertainment,Gaming,1743.77,expense,Gaming payment,April,4,2024
+2024-04-09,Health,Medicine,1924.46,expense,Medicine payment,April,4,2024
+2024-04-09,Shopping,Electronics,10449.96,expense,Electronics payment,April,4,2024
+2024-04-10,Food,Coffee,340.49,expense,Coffee payment,April,4,2024
+2024-04-10,Entertainment,Movies,538.4,expense,Movies payment,April,4,2024
+2024-04-10,Entertainment,Gaming,607.14,expense,Gaming payment,April,4,2024
+2024-04-10,Health,Medicine,1452.07,expense,Medicine payment,April,4,2024
+2024-04-10,Shopping,Home Decor,818.73,expense,Home Decor payment,April,4,2024
+2024-04-10,Investment,Mutual Funds,3880.11,expense,Mutual Funds payment,April,4,2024
+2024-04-10,Investment,Gold,4093.84,expense,Gold payment,April,4,2024
+2024-04-11,Income,Freelance,19894.1,income,Freelance payment,April,4,2024
+2024-04-11,Income,Dividends,1826.27,income,Dividends payment,April,4,2024
+2024-04-11,Housing,Electricity,1580.02,expense,Electricity payment,April,4,2024
+2024-04-11,Health,Doctor,751.16,expense,Doctor payment,April,4,2024
+2024-04-11,Investment,Mutual Funds,3661.81,expense,Mutual Funds payment,April,4,2024
+2024-04-11,Investment,Crypto,3213.59,expense,Crypto payment,April,4,2024
+2024-04-12,Food,Restaurants,1254.12,expense,Restaurants payment,April,4,2024
+2024-04-12,Food,Food Delivery,921.3,expense,Food Delivery payment,April,4,2024
+2024-04-12,Transport,Metro,399.14,expense,Metro payment,April,4,2024
+2024-04-12,Entertainment,Movies,748.96,expense,Movies payment,April,4,2024
+2024-04-12,Health,Medicine,1099.25,expense,Medicine payment,April,4,2024
+2024-04-12,Investment,Stocks,9025.7,expense,Stocks payment,April,4,2024
+2024-04-13,Housing,Electricity,881.04,expense,Electricity payment,April,4,2024
+2024-04-13,Food,Coffee,223.9,expense,Coffee payment,April,4,2024
+2024-04-13,Transport,Metro,415.72,expense,Metro payment,April,4,2024
+2024-04-13,Health,Doctor,1841.41,expense,Doctor payment,April,4,2024
+2024-04-14,Housing,Electricity,1638.41,expense,Electricity payment,April,4,2024
+2024-04-14,Transport,Car Maintenance,887.96,expense,Car Maintenance payment,April,4,2024
+2024-04-14,Shopping,Electronics,11202.71,expense,Electronics payment,April,4,2024
+2024-04-15,Income,Freelance,16716.86,income,Freelance payment,April,4,2024
+2024-04-15,Food,Groceries,2088.07,expense,Groceries payment,April,4,2024
+2024-04-15,Food,Coffee,684.26,expense,Coffee payment,April,4,2024
+2024-04-15,Transport,Fuel,1907.97,expense,Fuel payment,April,4,2024
+2024-04-15,Transport,Uber,251.1,expense,Uber payment,April,4,2024
+2024-04-15,Entertainment,Movies,527.6,expense,Movies payment,April,4,2024
+2024-04-15,Shopping,Electronics,9460.86,expense,Electronics payment,April,4,2024
+2024-04-15,Investment,Mutual Funds,7177.57,expense,Mutual Funds payment,April,4,2024
+2024-04-16,Food,Restaurants,2784.87,expense,Restaurants payment,April,4,2024
+2024-04-16,Food,Food Delivery,1188.8,expense,Food Delivery payment,April,4,2024
+2024-04-16,Transport,Metro,228.72,expense,Metro payment,April,4,2024
+2024-04-16,Entertainment,Events,1432.02,expense,Events payment,April,4,2024
+2024-04-16,Investment,Stocks,6255.66,expense,Stocks payment,April,4,2024
+2024-04-17,Income,Freelance,8010.07,income,Freelance payment,April,4,2024
+2024-04-17,Food,Coffee,478.36,expense,Coffee payment,April,4,2024
+2024-04-17,Transport,Metro,297.34,expense,Metro payment,April,4,2024
+2024-04-17,Health,Doctor,1525.09,expense,Doctor payment,April,4,2024
+2024-04-17,Investment,Mutual Funds,5943.82,expense,Mutual Funds payment,April,4,2024
+2024-04-17,Savings,Emergency Fund,3589.44,expense,Emergency Fund payment,April,4,2024
+2024-04-18,Housing,Electricity,1996.35,expense,Electricity payment,April,4,2024
+2024-04-18,Transport,Metro,468.51,expense,Metro payment,April,4,2024
+2024-04-18,Health,Doctor,738.94,expense,Doctor payment,April,4,2024
+2024-04-18,Shopping,Clothing,4279.85,expense,Clothing payment,April,4,2024
+2024-04-18,Shopping,Electronics,9381.67,expense,Electronics payment,April,4,2024
+2024-04-19,Housing,Maintenance,1006.78,expense,Maintenance payment,April,4,2024
+2024-04-19,Food,Restaurants,2449.84,expense,Restaurants payment,April,4,2024
+2024-04-19,Food,Food Delivery,1001.65,expense,Food Delivery payment,April,4,2024
+2024-04-19,Transport,Metro,165.75,expense,Metro payment,April,4,2024
+2024-04-19,Shopping,Electronics,4049.0,expense,Electronics payment,April,4,2024
+2024-04-19,Investment,Mutual Funds,7015.55,expense,Mutual Funds payment,April,4,2024
+2024-04-19,Investment,Gold,1992.88,expense,Gold payment,April,4,2024
+2024-04-20,Food,Coffee,218.65,expense,Coffee payment,April,4,2024
+2024-04-20,Transport,Metro,280.88,expense,Metro payment,April,4,2024
+2024-04-20,Health,Medicine,221.52,expense,Medicine payment,April,4,2024
+2024-04-20,Shopping,Electronics,12707.75,expense,Electronics payment,April,4,2024
+2024-04-20,Savings,Emergency Fund,2193.42,expense,Emergency Fund payment,April,4,2024
+2024-04-21,Housing,Electricity,1886.09,expense,Electricity payment,April,4,2024
+2024-04-21,Transport,Metro,117.08,expense,Metro payment,April,4,2024
+2024-04-21,Health,Doctor,2208.03,expense,Doctor payment,April,4,2024
+2024-04-21,Investment,Mutual Funds,5715.06,expense,Mutual Funds payment,April,4,2024
+2024-04-22,Income,Dividends,1199.44,income,Dividends payment,April,4,2024
+2024-04-22,Housing,Electricity,1039.35,expense,Electricity payment,April,4,2024
+2024-04-22,Food,Groceries,3577.44,expense,Groceries payment,April,4,2024
+2024-04-22,Food,Coffee,578.45,expense,Coffee payment,April,4,2024
+2024-04-22,Transport,Fuel,2703.25,expense,Fuel payment,April,4,2024
+2024-04-22,Transport,Uber,835.88,expense,Uber payment,April,4,2024
+2024-04-22,Investment,Crypto,4966.13,expense,Crypto payment,April,4,2024
+2024-04-23,Housing,Electricity,1588.24,expense,Electricity payment,April,4,2024
+2024-04-23,Food,Restaurants,2540.71,expense,Restaurants payment,April,4,2024
+2024-04-23,Food,Food Delivery,1400.71,expense,Food Delivery payment,April,4,2024
+2024-04-23,Transport,Metro,498.56,expense,Metro payment,April,4,2024
+2024-04-23,Investment,Mutual Funds,6203.36,expense,Mutual Funds payment,April,4,2024
+2024-04-24,Food,Coffee,385.43,expense,Coffee payment,April,4,2024
+2024-04-24,Transport,Metro,136.1,expense,Metro payment,April,4,2024
+2024-04-24,Entertainment,Events,2794.74,expense,Events payment,April,4,2024
+2024-04-24,Health,Doctor,2292.34,expense,Doctor payment,April,4,2024
+2024-04-24,Shopping,Books,669.29,expense,Books payment,April,4,2024
+2024-04-25,Housing,Maintenance,1254.41,expense,Maintenance payment,April,4,2024
+2024-04-25,Transport,Metro,163.0,expense,Metro payment,April,4,2024
+2024-04-25,Savings,Emergency Fund,4186.49,expense,Emergency Fund payment,April,4,2024
+2024-04-26,Food,Restaurants,2912.96,expense,Restaurants payment,April,4,2024
+2024-04-26,Food,Food Delivery,338.86,expense,Food Delivery payment,April,4,2024
+2024-04-26,Health,Doctor,2363.36,expense,Doctor payment,April,4,2024
+2024-04-26,Investment,Stocks,7962.76,expense,Stocks payment,April,4,2024
+2024-04-27,Income,Dividends,1141.64,income,Dividends payment,April,4,2024
+2024-04-27,Housing,Electricity,801.54,expense,Electricity payment,April,4,2024
+2024-04-27,Food,Coffee,639.55,expense,Coffee payment,April,4,2024
+2024-04-27,Health,Medicine,1063.08,expense,Medicine payment,April,4,2024
+2024-04-27,Shopping,Books,876.61,expense,Books payment,April,4,2024
+2024-04-27,Investment,Gold,1680.42,expense,Gold payment,April,4,2024
+2024-04-28,Housing,Maintenance,1985.08,expense,Maintenance payment,April,4,2024
+2024-04-28,Entertainment,Movies,771.22,expense,Movies payment,April,4,2024
+2024-04-28,Health,Doctor,1013.88,expense,Doctor payment,April,4,2024
+2024-04-28,Investment,Gold,3287.08,expense,Gold payment,April,4,2024
+2024-04-29,Food,Groceries,3986.06,expense,Groceries payment,April,4,2024
+2024-04-29,Food,Coffee,560.13,expense,Coffee payment,April,4,2024
+2024-04-29,Transport,Fuel,1799.51,expense,Fuel payment,April,4,2024
+2024-04-29,Transport,Uber,220.59,expense,Uber payment,April,4,2024
+2024-04-29,Transport,Metro,216.72,expense,Metro payment,April,4,2024
+2024-04-29,Transport,Car Maintenance,4296.96,expense,Car Maintenance payment,April,4,2024
+2024-04-29,Health,Doctor,1860.32,expense,Doctor payment,April,4,2024
+2024-04-29,Savings,Emergency Fund,4256.71,expense,Emergency Fund payment,April,4,2024
+2024-04-30,Income,Dividends,1359.48,income,Dividends payment,April,4,2024
+2024-04-30,Food,Restaurants,1974.32,expense,Restaurants payment,April,4,2024
+2024-04-30,Food,Food Delivery,964.32,expense,Food Delivery payment,April,4,2024
+2024-04-30,Shopping,Electronics,13736.1,expense,Electronics payment,April,4,2024
+2024-04-30,Savings,Emergency Fund,4271.57,expense,Emergency Fund payment,April,4,2024
+2024-05-01,Income,Salary,56728.79,income,Salary payment,May,5,2024
+2024-05-01,Housing,Rent,15000.0,expense,Rent payment,May,5,2024
+2024-05-01,Housing,Electricity,1308.05,expense,Electricity payment,May,5,2024
+2024-05-01,Housing,Internet,699.0,expense,Internet payment,May,5,2024
+2024-05-01,Food,Coffee,798.36,expense,Coffee payment,May,5,2024
+2024-05-01,Entertainment,OTT Subscriptions,757.89,expense,OTT Subscriptions payment,May,5,2024
+2024-05-01,Entertainment,Events,1470.25,expense,Events payment,May,5,2024
+2024-05-01,Health,Gym,1897.35,expense,Gym payment,May,5,2024
+2024-05-01,Investment,Gold,3351.74,expense,Gold payment,May,5,2024
+2024-05-02,Income,Salary,64396.5,income,Salary payment,May,5,2024
+2024-05-02,Housing,Rent,15000.0,expense,Rent payment,May,5,2024
+2024-05-02,Housing,Internet,699.0,expense,Internet payment,May,5,2024
+2024-05-02,Transport,Metro,253.22,expense,Metro payment,May,5,2024
+2024-05-02,Entertainment,OTT Subscriptions,1108.96,expense,OTT Subscriptions payment,May,5,2024
+2024-05-02,Entertainment,Movies,437.71,expense,Movies payment,May,5,2024
+2024-05-02,Entertainment,Gaming,1295.58,expense,Gaming payment,May,5,2024
+2024-05-02,Health,Gym,1538.78,expense,Gym payment,May,5,2024
+2024-05-02,Investment,Stocks,8721.7,expense,Stocks payment,May,5,2024
+2024-05-03,Income,Salary,55982.17,income,Salary payment,May,5,2024
+2024-05-03,Income,Dividends,2935.55,income,Dividends payment,May,5,2024
+2024-05-03,Housing,Rent,15000.0,expense,Rent payment,May,5,2024
+2024-05-03,Housing,Internet,699.0,expense,Internet payment,May,5,2024
+2024-05-03,Food,Restaurants,2113.89,expense,Restaurants payment,May,5,2024
+2024-05-03,Food,Food Delivery,525.52,expense,Food Delivery payment,May,5,2024
+2024-05-03,Transport,Metro,429.59,expense,Metro payment,May,5,2024
+2024-05-03,Entertainment,OTT Subscriptions,1259.49,expense,OTT Subscriptions payment,May,5,2024
+2024-05-03,Health,Gym,1658.97,expense,Gym payment,May,5,2024
+2024-05-03,Shopping,Clothing,4405.18,expense,Clothing payment,May,5,2024
+2024-05-03,Shopping,Home Decor,1367.44,expense,Home Decor payment,May,5,2024
+2024-05-04,Food,Coffee,274.32,expense,Coffee payment,May,5,2024
+2024-05-04,Transport,Metro,248.99,expense,Metro payment,May,5,2024
+2024-05-05,Transport,Metro,412.12,expense,Metro payment,May,5,2024
+2024-05-05,Entertainment,Movies,755.76,expense,Movies payment,May,5,2024
+2024-05-05,Health,Medicine,654.3,expense,Medicine payment,May,5,2024
+2024-05-06,Housing,Electricity,1413.82,expense,Electricity payment,May,5,2024
+2024-05-06,Food,Groceries,4529.85,expense,Groceries payment,May,5,2024
+2024-05-06,Food,Coffee,424.54,expense,Coffee payment,May,5,2024
+2024-05-06,Transport,Fuel,2471.01,expense,Fuel payment,May,5,2024
+2024-05-06,Transport,Uber,687.24,expense,Uber payment,May,5,2024
+2024-05-06,Transport,Metro,143.24,expense,Metro payment,May,5,2024
+2024-05-06,Transport,Car Maintenance,4947.62,expense,Car Maintenance payment,May,5,2024
+2024-05-06,Shopping,Electronics,11951.17,expense,Electronics payment,May,5,2024
+2024-05-07,Food,Restaurants,1470.69,expense,Restaurants payment,May,5,2024
+2024-05-07,Food,Food Delivery,342.38,expense,Food Delivery payment,May,5,2024
+2024-05-07,Investment,Gold,1511.78,expense,Gold payment,May,5,2024
+2024-05-08,Food,Coffee,401.38,expense,Coffee payment,May,5,2024
+2024-05-08,Transport,Metro,242.11,expense,Metro payment,May,5,2024
+2024-05-08,Investment,Mutual Funds,7336.56,expense,Mutual Funds payment,May,5,2024
+2024-05-09,Income,Dividends,2635.6,income,Dividends payment,May,5,2024
+2024-05-09,Housing,Electricity,1040.36,expense,Electricity payment,May,5,2024
+2024-05-09,Transport,Metro,462.65,expense,Metro payment,May,5,2024
+2024-05-09,Shopping,Home Decor,1730.88,expense,Home Decor payment,May,5,2024
+2024-05-09,Savings,Emergency Fund,3843.44,expense,Emergency Fund payment,May,5,2024
+2024-05-10,Food,Restaurants,594.31,expense,Restaurants payment,May,5,2024
+2024-05-10,Food,Food Delivery,539.3,expense,Food Delivery payment,May,5,2024
+2024-05-10,Transport,Metro,105.63,expense,Metro payment,May,5,2024
+2024-05-10,Shopping,Home Decor,2225.98,expense,Home Decor payment,May,5,2024
+2024-05-11,Food,Coffee,405.64,expense,Coffee payment,May,5,2024
+2024-05-11,Shopping,Electronics,11543.0,expense,Electronics payment,May,5,2024
+2024-05-11,Investment,Crypto,4506.18,expense,Crypto payment,May,5,2024
+2024-05-12,Income,Freelance,19920.2,income,Freelance payment,May,5,2024
+2024-05-12,Housing,Maintenance,2224.37,expense,Maintenance payment,May,5,2024
+2024-05-12,Transport,Metro,252.1,expense,Metro payment,May,5,2024
+2024-05-12,Investment,Stocks,8814.57,expense,Stocks payment,May,5,2024
+2024-05-12,Investment,Mutual Funds,6312.6,expense,Mutual Funds payment,May,5,2024
+2024-05-12,Investment,Crypto,1456.05,expense,Crypto payment,May,5,2024
+2024-05-12,Investment,Gold,1794.59,expense,Gold payment,May,5,2024
+2024-05-13,Food,Groceries,2886.05,expense,Groceries payment,May,5,2024
+2024-05-13,Food,Coffee,223.64,expense,Coffee payment,May,5,2024
+2024-05-13,Transport,Fuel,2244.53,expense,Fuel payment,May,5,2024
+2024-05-13,Transport,Uber,366.16,expense,Uber payment,May,5,2024
+2024-05-13,Entertainment,Movies,635.82,expense,Movies payment,May,5,2024
+2024-05-13,Health,Doctor,725.21,expense,Doctor payment,May,5,2024
+2024-05-13,Shopping,Home Decor,1651.51,expense,Home Decor payment,May,5,2024
+2024-05-13,Investment,Gold,1698.81,expense,Gold payment,May,5,2024
+2024-05-13,Savings,Emergency Fund,2871.7,expense,Emergency Fund payment,May,5,2024
+2024-05-14,Housing,Maintenance,2395.51,expense,Maintenance payment,May,5,2024
+2024-05-14,Food,Restaurants,614.72,expense,Restaurants payment,May,5,2024
+2024-05-14,Food,Food Delivery,1322.4,expense,Food Delivery payment,May,5,2024
+2024-05-14,Health,Doctor,2537.41,expense,Doctor payment,May,5,2024
+2024-05-15,Income,Freelance,15442.55,income,Freelance payment,May,5,2024
+2024-05-15,Income,Dividends,2856.17,income,Dividends payment,May,5,2024
+2024-05-15,Food,Coffee,554.45,expense,Coffee payment,May,5,2024
+2024-05-15,Health,Medicine,1432.04,expense,Medicine payment,May,5,2024
+2024-05-15,Shopping,Electronics,13965.17,expense,Electronics payment,May,5,2024
+2024-05-15,Shopping,Home Decor,2350.78,expense,Home Decor payment,May,5,2024
+2024-05-15,Shopping,Books,409.29,expense,Books payment,May,5,2024
+2024-05-16,Transport,Metro,380.23,expense,Metro payment,May,5,2024
+2024-05-16,Transport,Car Maintenance,3477.71,expense,Car Maintenance payment,May,5,2024
+2024-05-16,Shopping,Home Decor,3395.29,expense,Home Decor payment,May,5,2024
+2024-05-16,Investment,Gold,2966.59,expense,Gold payment,May,5,2024
+2024-05-17,Income,Dividends,1056.77,income,Dividends payment,May,5,2024
+2024-05-17,Food,Restaurants,1087.5,expense,Restaurants payment,May,5,2024
+2024-05-17,Food,Food Delivery,850.91,expense,Food Delivery payment,May,5,2024
+2024-05-17,Entertainment,Events,1743.43,expense,Events payment,May,5,2024
+2024-05-17,Health,Doctor,1530.85,expense,Doctor payment,May,5,2024
+2024-05-17,Shopping,Electronics,3181.64,expense,Electronics payment,May,5,2024
+2024-05-18,Income,Dividends,1057.3,income,Dividends payment,May,5,2024
+2024-05-18,Food,Coffee,571.85,expense,Coffee payment,May,5,2024
+2024-05-18,Transport,Metro,362.87,expense,Metro payment,May,5,2024
+2024-05-18,Entertainment,Movies,679.66,expense,Movies payment,May,5,2024
+2024-05-18,Shopping,Books,331.32,expense,Books payment,May,5,2024
+2024-05-18,Investment,Stocks,8017.99,expense,Stocks payment,May,5,2024
+2024-05-18,Investment,Crypto,3443.41,expense,Crypto payment,May,5,2024
+2024-05-19,Transport,Metro,265.79,expense,Metro payment,May,5,2024
+2024-05-19,Shopping,Electronics,8484.77,expense,Electronics payment,May,5,2024
+2024-05-19,Shopping,Books,948.25,expense,Books payment,May,5,2024
+2024-05-20,Housing,Electricity,1264.89,expense,Electricity payment,May,5,2024
+2024-05-20,Food,Groceries,4648.09,expense,Groceries payment,May,5,2024
+2024-05-20,Food,Coffee,502.47,expense,Coffee payment,May,5,2024
+2024-05-20,Transport,Fuel,2076.99,expense,Fuel payment,May,5,2024
+2024-05-20,Transport,Uber,983.6,expense,Uber payment,May,5,2024
+2024-05-20,Health,Doctor,1531.86,expense,Doctor payment,May,5,2024
+2024-05-21,Food,Restaurants,2953.34,expense,Restaurants payment,May,5,2024
+2024-05-21,Food,Food Delivery,1080.1,expense,Food Delivery payment,May,5,2024
+2024-05-21,Entertainment,Events,1380.59,expense,Events payment,May,5,2024
+2024-05-21,Savings,Emergency Fund,2435.98,expense,Emergency Fund payment,May,5,2024
+2024-05-22,Food,Coffee,371.97,expense,Coffee payment,May,5,2024
+2024-05-22,Transport,Metro,435.75,expense,Metro payment,May,5,2024
+2024-05-22,Entertainment,Events,2535.07,expense,Events payment,May,5,2024
+2024-05-22,Health,Medicine,1762.46,expense,Medicine payment,May,5,2024
+2024-05-23,Transport,Metro,105.19,expense,Metro payment,May,5,2024
+2024-05-24,Food,Restaurants,1443.0,expense,Restaurants payment,May,5,2024
+2024-05-24,Food,Food Delivery,814.21,expense,Food Delivery payment,May,5,2024
+2024-05-24,Transport,Metro,152.03,expense,Metro payment,May,5,2024
+2024-05-24,Shopping,Electronics,14120.96,expense,Electronics payment,May,5,2024
+2024-05-25,Housing,Electricity,1406.17,expense,Electricity payment,May,5,2024
+2024-05-25,Food,Coffee,522.22,expense,Coffee payment,May,5,2024
+2024-05-25,Transport,Metro,188.48,expense,Metro payment,May,5,2024
+2024-05-25,Shopping,Books,735.15,expense,Books payment,May,5,2024
+2024-05-26,Transport,Metro,316.09,expense,Metro payment,May,5,2024
+2024-05-26,Shopping,Clothing,4593.13,expense,Clothing payment,May,5,2024
+2024-05-26,Investment,Gold,1261.89,expense,Gold payment,May,5,2024
+2024-05-27,Housing,Maintenance,1844.39,expense,Maintenance payment,May,5,2024
+2024-05-27,Food,Groceries,4108.23,expense,Groceries payment,May,5,2024
+2024-05-27,Food,Coffee,785.73,expense,Coffee payment,May,5,2024
+2024-05-27,Transport,Fuel,2662.81,expense,Fuel payment,May,5,2024
+2024-05-27,Transport,Uber,717.25,expense,Uber payment,May,5,2024
+2024-05-27,Health,Medicine,297.68,expense,Medicine payment,May,5,2024
+2024-05-27,Investment,Gold,3693.19,expense,Gold payment,May,5,2024
+2024-05-28,Food,Restaurants,2252.21,expense,Restaurants payment,May,5,2024
+2024-05-28,Food,Food Delivery,387.11,expense,Food Delivery payment,May,5,2024
+2024-05-28,Transport,Car Maintenance,4041.01,expense,Car Maintenance payment,May,5,2024
+2024-05-28,Entertainment,Gaming,1577.49,expense,Gaming payment,May,5,2024
+2024-05-28,Shopping,Home Decor,2259.47,expense,Home Decor payment,May,5,2024
+2024-05-28,Investment,Crypto,3709.16,expense,Crypto payment,May,5,2024
+2024-05-29,Food,Coffee,533.04,expense,Coffee payment,May,5,2024
+2024-05-29,Transport,Metro,102.01,expense,Metro payment,May,5,2024
+2024-05-30,Entertainment,Events,745.51,expense,Events payment,May,5,2024
+2024-05-30,Shopping,Electronics,10521.15,expense,Electronics payment,May,5,2024
+2024-05-30,Shopping,Home Decor,3287.82,expense,Home Decor payment,May,5,2024
+2024-05-31,Food,Restaurants,512.08,expense,Restaurants payment,May,5,2024
+2024-05-31,Food,Food Delivery,595.41,expense,Food Delivery payment,May,5,2024
+2024-05-31,Transport,Metro,395.93,expense,Metro payment,May,5,2024
+2024-05-31,Entertainment,Gaming,1519.35,expense,Gaming payment,May,5,2024
+2024-05-31,Investment,Crypto,3154.47,expense,Crypto payment,May,5,2024
+2024-06-01,Income,Salary,55764.62,income,Salary payment,June,6,2024
+2024-06-01,Income,Freelance,5279.45,income,Freelance payment,June,6,2024
+2024-06-01,Housing,Rent,15000.0,expense,Rent payment,June,6,2024
+2024-06-01,Housing,Internet,699.0,expense,Internet payment,June,6,2024
+2024-06-01,Food,Coffee,743.78,expense,Coffee payment,June,6,2024
+2024-06-01,Transport,Metro,317.39,expense,Metro payment,June,6,2024
+2024-06-01,Entertainment,OTT Subscriptions,972.1,expense,OTT Subscriptions payment,June,6,2024
+2024-06-01,Health,Gym,2272.14,expense,Gym payment,June,6,2024
+2024-06-02,Income,Salary,60141.37,income,Salary payment,June,6,2024
+2024-06-02,Housing,Rent,15000.0,expense,Rent payment,June,6,2024
+2024-06-02,Housing,Internet,699.0,expense,Internet payment,June,6,2024
+2024-06-02,Transport,Metro,243.52,expense,Metro payment,June,6,2024
+2024-06-02,Entertainment,OTT Subscriptions,987.64,expense,OTT Subscriptions payment,June,6,2024
+2024-06-02,Entertainment,Movies,484.72,expense,Movies payment,June,6,2024
+2024-06-02,Entertainment,Gaming,572.19,expense,Gaming payment,June,6,2024
+2024-06-02,Health,Gym,1861.25,expense,Gym payment,June,6,2024
+2024-06-02,Shopping,Clothing,4922.36,expense,Clothing payment,June,6,2024
+2024-06-03,Income,Salary,61536.75,income,Salary payment,June,6,2024
+2024-06-03,Housing,Rent,15000.0,expense,Rent payment,June,6,2024
+2024-06-03,Housing,Internet,699.0,expense,Internet payment,June,6,2024
+2024-06-03,Food,Groceries,3549.12,expense,Groceries payment,June,6,2024
+2024-06-03,Food,Coffee,411.74,expense,Coffee payment,June,6,2024
+2024-06-03,Transport,Fuel,2801.58,expense,Fuel payment,June,6,2024
+2024-06-03,Transport,Uber,589.49,expense,Uber payment,June,6,2024
+2024-06-03,Transport,Metro,341.68,expense,Metro payment,June,6,2024
+2024-06-03,Entertainment,OTT Subscriptions,638.97,expense,OTT Subscriptions payment,June,6,2024
+2024-06-03,Entertainment,Gaming,1358.26,expense,Gaming payment,June,6,2024
+2024-06-03,Health,Gym,1686.91,expense,Gym payment,June,6,2024
+2024-06-03,Shopping,Clothing,1921.39,expense,Clothing payment,June,6,2024
+2024-06-03,Savings,Emergency Fund,2129.43,expense,Emergency Fund payment,June,6,2024
+2024-06-04,Housing,Maintenance,1930.67,expense,Maintenance payment,June,6,2024
+2024-06-04,Food,Restaurants,639.78,expense,Restaurants payment,June,6,2024
+2024-06-04,Food,Food Delivery,609.91,expense,Food Delivery payment,June,6,2024
+2024-06-04,Transport,Metro,483.3,expense,Metro payment,June,6,2024
+2024-06-04,Entertainment,Gaming,1495.19,expense,Gaming payment,June,6,2024
+2024-06-04,Health,Doctor,1623.01,expense,Doctor payment,June,6,2024
+2024-06-05,Food,Coffee,554.36,expense,Coffee payment,June,6,2024
+2024-06-05,Transport,Metro,254.18,expense,Metro payment,June,6,2024
+2024-06-05,Transport,Car Maintenance,1410.57,expense,Car Maintenance payment,June,6,2024
+2024-06-05,Health,Medicine,373.34,expense,Medicine payment,June,6,2024
+2024-06-05,Shopping,Electronics,12190.29,expense,Electronics payment,June,6,2024
+2024-06-05,Shopping,Books,585.79,expense,Books payment,June,6,2024
+2024-06-05,Investment,Stocks,7224.32,expense,Stocks payment,June,6,2024
+2024-06-06,Housing,Electricity,1435.78,expense,Electricity payment,June,6,2024
+2024-06-06,Shopping,Clothing,1535.53,expense,Clothing payment,June,6,2024
+2024-06-07,Housing,Electricity,808.63,expense,Electricity payment,June,6,2024
+2024-06-07,Food,Restaurants,2219.42,expense,Restaurants payment,June,6,2024
+2024-06-07,Food,Food Delivery,679.08,expense,Food Delivery payment,June,6,2024
+2024-06-07,Transport,Metro,161.91,expense,Metro payment,June,6,2024
+2024-06-08,Food,Coffee,595.57,expense,Coffee payment,June,6,2024
+2024-06-08,Investment,Mutual Funds,2546.53,expense,Mutual Funds payment,June,6,2024
+2024-06-08,Investment,Crypto,4703.45,expense,Crypto payment,June,6,2024
+2024-06-08,Savings,Emergency Fund,2665.31,expense,Emergency Fund payment,June,6,2024
+2024-06-09,Income,Freelance,5566.33,income,Freelance payment,June,6,2024
+2024-06-09,Transport,Metro,384.64,expense,Metro payment,June,6,2024
+2024-06-09,Shopping,Books,679.61,expense,Books payment,June,6,2024
+2024-06-09,Investment,Gold,1957.03,expense,Gold payment,June,6,2024
+2024-06-09,Savings,Emergency Fund,2472.33,expense,Emergency Fund payment,June,6,2024
+2024-06-10,Food,Groceries,3758.24,expense,Groceries payment,June,6,2024
+2024-06-10,Food,Coffee,510.65,expense,Coffee payment,June,6,2024
+2024-06-10,Transport,Fuel,2605.39,expense,Fuel payment,June,6,2024
+2024-06-10,Transport,Uber,254.89,expense,Uber payment,June,6,2024
+2024-06-10,Transport,Metro,213.8,expense,Metro payment,June,6,2024
+2024-06-10,Investment,Mutual Funds,2434.32,expense,Mutual Funds payment,June,6,2024
+2024-06-11,Food,Restaurants,2235.48,expense,Restaurants payment,June,6,2024
+2024-06-11,Food,Food Delivery,1459.27,expense,Food Delivery payment,June,6,2024
+2024-06-11,Transport,Metro,407.99,expense,Metro payment,June,6,2024
+2024-06-11,Health,Doctor,790.67,expense,Doctor payment,June,6,2024
+2024-06-11,Shopping,Clothing,3534.65,expense,Clothing payment,June,6,2024
+2024-06-11,Investment,Gold,4328.71,expense,Gold payment,June,6,2024
+2024-06-12,Income,Freelance,15105.47,income,Freelance payment,June,6,2024
+2024-06-12,Housing,Electricity,1917.68,expense,Electricity payment,June,6,2024
+2024-06-12,Food,Coffee,412.12,expense,Coffee payment,June,6,2024
+2024-06-12,Investment,Gold,4680.75,expense,Gold payment,June,6,2024
+2024-06-13,Transport,Metro,292.92,expense,Metro payment,June,6,2024
+2024-06-13,Investment,Mutual Funds,6795.62,expense,Mutual Funds payment,June,6,2024
+2024-06-14,Food,Restaurants,2245.61,expense,Restaurants payment,June,6,2024
+2024-06-14,Food,Food Delivery,852.08,expense,Food Delivery payment,June,6,2024
+2024-06-14,Transport,Car Maintenance,1448.39,expense,Car Maintenance payment,June,6,2024
+2024-06-15,Housing,Electricity,1491.07,expense,Electricity payment,June,6,2024
+2024-06-15,Food,Coffee,259.92,expense,Coffee payment,June,6,2024
+2024-06-15,Transport,Metro,194.32,expense,Metro payment,June,6,2024
+2024-06-15,Entertainment,Gaming,1926.47,expense,Gaming payment,June,6,2024
+2024-06-15,Entertainment,Events,2514.17,expense,Events payment,June,6,2024
+2024-06-16,Income,Dividends,2534.55,income,Dividends payment,June,6,2024
+2024-06-16,Transport,Metro,233.86,expense,Metro payment,June,6,2024
+2024-06-16,Health,Medicine,418.23,expense,Medicine payment,June,6,2024
+2024-06-17,Food,Groceries,3895.14,expense,Groceries payment,June,6,2024
+2024-06-17,Food,Coffee,286.91,expense,Coffee payment,June,6,2024
+2024-06-17,Transport,Fuel,1751.36,expense,Fuel payment,June,6,2024
+2024-06-17,Transport,Uber,846.17,expense,Uber payment,June,6,2024
+2024-06-17,Transport,Metro,352.51,expense,Metro payment,June,6,2024
+2024-06-17,Entertainment,Gaming,491.6,expense,Gaming payment,June,6,2024
+2024-06-18,Income,Dividends,2319.43,income,Dividends payment,June,6,2024
+2024-06-18,Food,Restaurants,2251.74,expense,Restaurants payment,June,6,2024
+2024-06-18,Food,Food Delivery,396.08,expense,Food Delivery payment,June,6,2024
+2024-06-18,Transport,Metro,141.2,expense,Metro payment,June,6,2024
+2024-06-18,Transport,Car Maintenance,4454.11,expense,Car Maintenance payment,June,6,2024
+2024-06-18,Entertainment,Gaming,914.62,expense,Gaming payment,June,6,2024
+2024-06-18,Health,Medicine,672.41,expense,Medicine payment,June,6,2024
+2024-06-18,Investment,Crypto,4354.07,expense,Crypto payment,June,6,2024
+2024-06-18,Investment,Gold,3654.2,expense,Gold payment,June,6,2024
+2024-06-19,Food,Coffee,363.45,expense,Coffee payment,June,6,2024
+2024-06-19,Transport,Metro,487.82,expense,Metro payment,June,6,2024
+2024-06-20,Income,Dividends,2538.45,income,Dividends payment,June,6,2024
+2024-06-20,Transport,Metro,103.33,expense,Metro payment,June,6,2024
+2024-06-20,Entertainment,Events,1576.09,expense,Events payment,June,6,2024
+2024-06-20,Shopping,Clothing,2494.58,expense,Clothing payment,June,6,2024
+2024-06-21,Food,Restaurants,2518.94,expense,Restaurants payment,June,6,2024
+2024-06-21,Food,Food Delivery,1121.57,expense,Food Delivery payment,June,6,2024
+2024-06-21,Transport,Metro,397.17,expense,Metro payment,June,6,2024
+2024-06-21,Investment,Stocks,3347.42,expense,Stocks payment,June,6,2024
+2024-06-21,Investment,Gold,2076.78,expense,Gold payment,June,6,2024
+2024-06-22,Food,Coffee,405.15,expense,Coffee payment,June,6,2024
+2024-06-22,Transport,Metro,419.78,expense,Metro payment,June,6,2024
+2024-06-22,Shopping,Clothing,4102.61,expense,Clothing payment,June,6,2024
+2024-06-22,Shopping,Electronics,8111.91,expense,Electronics payment,June,6,2024
+2024-06-22,Investment,Crypto,4072.58,expense,Crypto payment,June,6,2024
+2024-06-23,Housing,Electricity,1353.0,expense,Electricity payment,June,6,2024
+2024-06-23,Transport,Metro,492.85,expense,Metro payment,June,6,2024
+2024-06-23,Health,Doctor,2843.55,expense,Doctor payment,June,6,2024
+2024-06-23,Investment,Gold,3531.64,expense,Gold payment,June,6,2024
+2024-06-24,Housing,Electricity,1746.97,expense,Electricity payment,June,6,2024
+2024-06-24,Housing,Maintenance,604.98,expense,Maintenance payment,June,6,2024
+2024-06-24,Food,Groceries,4350.43,expense,Groceries payment,June,6,2024
+2024-06-24,Food,Coffee,485.16,expense,Coffee payment,June,6,2024
+2024-06-24,Transport,Fuel,2394.32,expense,Fuel payment,June,6,2024
+2024-06-24,Transport,Uber,497.12,expense,Uber payment,June,6,2024
+2024-06-24,Transport,Metro,163.08,expense,Metro payment,June,6,2024
+2024-06-24,Transport,Car Maintenance,3283.9,expense,Car Maintenance payment,June,6,2024
+2024-06-24,Health,Medicine,1360.23,expense,Medicine payment,June,6,2024
+2024-06-24,Shopping,Electronics,5024.77,expense,Electronics payment,June,6,2024
+2024-06-25,Income,Dividends,2746.66,income,Dividends payment,June,6,2024
+2024-06-25,Food,Restaurants,1236.79,expense,Restaurants payment,June,6,2024
+2024-06-25,Food,Food Delivery,1136.45,expense,Food Delivery payment,June,6,2024
+2024-06-25,Transport,Metro,174.65,expense,Metro payment,June,6,2024
+2024-06-25,Shopping,Clothing,1620.1,expense,Clothing payment,June,6,2024
+2024-06-25,Investment,Stocks,7466.18,expense,Stocks payment,June,6,2024
+2024-06-25,Investment,Gold,4427.32,expense,Gold payment,June,6,2024
+2024-06-26,Food,Coffee,432.49,expense,Coffee payment,June,6,2024
+2024-06-26,Transport,Metro,299.02,expense,Metro payment,June,6,2024
+2024-06-26,Health,Medicine,1141.76,expense,Medicine payment,June,6,2024
+2024-06-26,Health,Doctor,2587.98,expense,Doctor payment,June,6,2024
+2024-06-26,Shopping,Clothing,4493.97,expense,Clothing payment,June,6,2024
+2024-06-26,Shopping,Books,656.81,expense,Books payment,June,6,2024
+2024-06-27,Housing,Electricity,1916.25,expense,Electricity payment,June,6,2024
+2024-06-27,Transport,Metro,455.91,expense,Metro payment,June,6,2024
+2024-06-27,Transport,Car Maintenance,4104.59,expense,Car Maintenance payment,June,6,2024
+2024-06-27,Entertainment,Movies,579.01,expense,Movies payment,June,6,2024
+2024-06-27,Shopping,Home Decor,816.75,expense,Home Decor payment,June,6,2024
+2024-06-27,Investment,Crypto,3900.69,expense,Crypto payment,June,6,2024
+2024-06-28,Food,Restaurants,2372.99,expense,Restaurants payment,June,6,2024
+2024-06-28,Food,Food Delivery,798.22,expense,Food Delivery payment,June,6,2024
+2024-06-28,Transport,Metro,355.45,expense,Metro payment,June,6,2024
+2024-06-29,Food,Coffee,565.05,expense,Coffee payment,June,6,2024
+2024-06-29,Transport,Metro,185.57,expense,Metro payment,June,6,2024
+2024-06-30,Income,Freelance,17329.1,income,Freelance payment,June,6,2024
+2024-06-30,Transport,Metro,470.37,expense,Metro payment,June,6,2024
+2024-06-30,Entertainment,Movies,477.83,expense,Movies payment,June,6,2024
+2024-06-30,Entertainment,Gaming,860.75,expense,Gaming payment,June,6,2024
+2024-06-30,Shopping,Clothing,2599.19,expense,Clothing payment,June,6,2024
+2024-07-01,Income,Salary,64076.56,income,Salary payment,July,7,2024
+2024-07-01,Housing,Rent,15000.0,expense,Rent payment,July,7,2024
+2024-07-01,Housing,Internet,699.0,expense,Internet payment,July,7,2024
+2024-07-01,Housing,Maintenance,2427.25,expense,Maintenance payment,July,7,2024
+2024-07-01,Food,Groceries,3043.79,expense,Groceries payment,July,7,2024
+2024-07-01,Food,Coffee,690.29,expense,Coffee payment,July,7,2024
+2024-07-01,Transport,Fuel,2124.78,expense,Fuel payment,July,7,2024
+2024-07-01,Transport,Uber,894.26,expense,Uber payment,July,7,2024
+2024-07-01,Entertainment,OTT Subscriptions,1152.78,expense,OTT Subscriptions payment,July,7,2024
+2024-07-01,Entertainment,Gaming,1599.35,expense,Gaming payment,July,7,2024
+2024-07-01,Health,Gym,1804.78,expense,Gym payment,July,7,2024
+2024-07-01,Health,Medicine,1171.87,expense,Medicine payment,July,7,2024
+2024-07-01,Health,Doctor,1756.0,expense,Doctor payment,July,7,2024
+2024-07-01,Health,Insurance,2662.39,expense,Insurance payment,July,7,2024
+2024-07-01,Shopping,Clothing,3926.31,expense,Clothing payment,July,7,2024
+2024-07-01,Savings,Emergency Fund,2247.64,expense,Emergency Fund payment,July,7,2024
+2024-07-01,Savings,Fixed Deposit,13571.61,expense,Fixed Deposit payment,July,7,2024
+2024-07-02,Income,Salary,55493.11,income,Salary payment,July,7,2024
+2024-07-02,Income,Dividends,1754.56,income,Dividends payment,July,7,2024
+2024-07-02,Housing,Rent,15000.0,expense,Rent payment,July,7,2024
+2024-07-02,Housing,Electricity,961.84,expense,Electricity payment,July,7,2024
+2024-07-02,Housing,Internet,699.0,expense,Internet payment,July,7,2024
+2024-07-02,Food,Restaurants,2130.62,expense,Restaurants payment,July,7,2024
+2024-07-02,Food,Food Delivery,535.32,expense,Food Delivery payment,July,7,2024
+2024-07-02,Entertainment,OTT Subscriptions,746.25,expense,OTT Subscriptions payment,July,7,2024
+2024-07-02,Entertainment,Movies,688.39,expense,Movies payment,July,7,2024
+2024-07-02,Health,Gym,1589.59,expense,Gym payment,July,7,2024
+2024-07-02,Health,Insurance,3044.92,expense,Insurance payment,July,7,2024
+2024-07-02,Shopping,Home Decor,1871.68,expense,Home Decor payment,July,7,2024
+2024-07-02,Investment,Gold,1179.51,expense,Gold payment,July,7,2024
+2024-07-02,Savings,Fixed Deposit,7995.28,expense,Fixed Deposit payment,July,7,2024
+2024-07-03,Income,Salary,58738.21,income,Salary payment,July,7,2024
+2024-07-03,Housing,Rent,15000.0,expense,Rent payment,July,7,2024
+2024-07-03,Housing,Electricity,1938.73,expense,Electricity payment,July,7,2024
+2024-07-03,Housing,Internet,699.0,expense,Internet payment,July,7,2024
+2024-07-03,Food,Coffee,692.08,expense,Coffee payment,July,7,2024
+2024-07-03,Transport,Metro,377.52,expense,Metro payment,July,7,2024
+2024-07-03,Transport,Car Maintenance,2525.28,expense,Car Maintenance payment,July,7,2024
+2024-07-03,Entertainment,OTT Subscriptions,522.75,expense,OTT Subscriptions payment,July,7,2024
+2024-07-03,Health,Gym,2023.27,expense,Gym payment,July,7,2024
+2024-07-03,Shopping,Electronics,11083.82,expense,Electronics payment,July,7,2024
+2024-07-03,Shopping,Home Decor,3123.52,expense,Home Decor payment,July,7,2024
+2024-07-03,Investment,Stocks,4192.24,expense,Stocks payment,July,7,2024
+2024-07-03,Savings,Emergency Fund,3964.27,expense,Emergency Fund payment,July,7,2024
+2024-07-04,Income,Freelance,10829.68,income,Freelance payment,July,7,2024
+2024-07-04,Transport,Car Maintenance,4403.35,expense,Car Maintenance payment,July,7,2024
+2024-07-04,Health,Doctor,1288.64,expense,Doctor payment,July,7,2024
+2024-07-04,Investment,Crypto,1989.57,expense,Crypto payment,July,7,2024
+2024-07-05,Food,Restaurants,2063.08,expense,Restaurants payment,July,7,2024
+2024-07-05,Food,Food Delivery,583.45,expense,Food Delivery payment,July,7,2024
+2024-07-05,Shopping,Clothing,3219.76,expense,Clothing payment,July,7,2024
+2024-07-05,Investment,Mutual Funds,4293.24,expense,Mutual Funds payment,July,7,2024
+2024-07-06,Food,Coffee,745.84,expense,Coffee payment,July,7,2024
+2024-07-06,Transport,Metro,316.89,expense,Metro payment,July,7,2024
+2024-07-06,Entertainment,Movies,570.68,expense,Movies payment,July,7,2024
+2024-07-06,Shopping,Electronics,14943.92,expense,Electronics payment,July,7,2024
+2024-07-06,Shopping,Books,946.42,expense,Books payment,July,7,2024
+2024-07-06,Savings,Emergency Fund,2952.79,expense,Emergency Fund payment,July,7,2024
+2024-07-07,Transport,Metro,264.5,expense,Metro payment,July,7,2024
+2024-07-07,Shopping,Clothing,1738.99,expense,Clothing payment,July,7,2024
+2024-07-08,Food,Groceries,4136.06,expense,Groceries payment,July,7,2024
+2024-07-08,Food,Coffee,424.38,expense,Coffee payment,July,7,2024
+2024-07-08,Transport,Fuel,2778.19,expense,Fuel payment,July,7,2024
+2024-07-08,Transport,Uber,593.16,expense,Uber payment,July,7,2024
+2024-07-08,Transport,Metro,177.3,expense,Metro payment,July,7,2024
+2024-07-08,Transport,Car Maintenance,3940.42,expense,Car Maintenance payment,July,7,2024
+2024-07-08,Entertainment,Movies,434.93,expense,Movies payment,July,7,2024
+2024-07-08,Shopping,Clothing,4708.41,expense,Clothing payment,July,7,2024
+2024-07-08,Savings,Emergency Fund,4206.0,expense,Emergency Fund payment,July,7,2024
+2024-07-09,Food,Restaurants,1984.51,expense,Restaurants payment,July,7,2024
+2024-07-09,Food,Food Delivery,930.28,expense,Food Delivery payment,July,7,2024
+2024-07-09,Health,Medicine,1992.51,expense,Medicine payment,July,7,2024
+2024-07-09,Investment,Mutual Funds,3747.08,expense,Mutual Funds payment,July,7,2024
+2024-07-10,Housing,Maintenance,1792.42,expense,Maintenance payment,July,7,2024
+2024-07-10,Food,Coffee,285.34,expense,Coffee payment,July,7,2024
+2024-07-10,Entertainment,Gaming,1601.72,expense,Gaming payment,July,7,2024
+2024-07-10,Health,Doctor,1533.9,expense,Doctor payment,July,7,2024
+2024-07-11,Housing,Electricity,937.0,expense,Electricity payment,July,7,2024
+2024-07-11,Transport,Metro,309.53,expense,Metro payment,July,7,2024
+2024-07-12,Food,Restaurants,793.88,expense,Restaurants payment,July,7,2024
+2024-07-12,Food,Food Delivery,457.89,expense,Food Delivery payment,July,7,2024
+2024-07-12,Transport,Metro,349.02,expense,Metro payment,July,7,2024
+2024-07-12,Health,Medicine,1788.87,expense,Medicine payment,July,7,2024
+2024-07-12,Shopping,Books,680.08,expense,Books payment,July,7,2024
+2024-07-13,Income,Freelance,7223.84,income,Freelance payment,July,7,2024
+2024-07-13,Housing,Electricity,1824.6,expense,Electricity payment,July,7,2024
+2024-07-13,Food,Coffee,702.81,expense,Coffee payment,July,7,2024
+2024-07-13,Transport,Metro,468.15,expense,Metro payment,July,7,2024
+2024-07-13,Transport,Car Maintenance,2376.31,expense,Car Maintenance payment,July,7,2024
+2024-07-13,Investment,Mutual Funds,3795.77,expense,Mutual Funds payment,July,7,2024
+2024-07-13,Savings,Emergency Fund,3281.97,expense,Emergency Fund payment,July,7,2024
+2024-07-14,Housing,Electricity,1633.54,expense,Electricity payment,July,7,2024
+2024-07-14,Transport,Metro,309.86,expense,Metro payment,July,7,2024
+2024-07-14,Entertainment,Gaming,1513.51,expense,Gaming payment,July,7,2024
+2024-07-15,Income,Freelance,13439.52,income,Freelance payment,July,7,2024
+2024-07-15,Food,Groceries,2539.72,expense,Groceries payment,July,7,2024
+2024-07-15,Food,Coffee,565.64,expense,Coffee payment,July,7,2024
+2024-07-15,Transport,Fuel,2562.88,expense,Fuel payment,July,7,2024
+2024-07-15,Transport,Uber,983.41,expense,Uber payment,July,7,2024
+2024-07-15,Transport,Metro,109.59,expense,Metro payment,July,7,2024
+2024-07-15,Entertainment,Movies,724.03,expense,Movies payment,July,7,2024
+2024-07-15,Shopping,Home Decor,1405.34,expense,Home Decor payment,July,7,2024
+2024-07-15,Savings,Emergency Fund,4057.51,expense,Emergency Fund payment,July,7,2024
+2024-07-16,Housing,Maintenance,939.07,expense,Maintenance payment,July,7,2024
+2024-07-16,Food,Restaurants,1326.29,expense,Restaurants payment,July,7,2024
+2024-07-16,Food,Food Delivery,705.52,expense,Food Delivery payment,July,7,2024
+2024-07-17,Food,Coffee,732.82,expense,Coffee payment,July,7,2024
+2024-07-17,Transport,Metro,487.85,expense,Metro payment,July,7,2024
+2024-07-17,Entertainment,Movies,791.81,expense,Movies payment,July,7,2024
+2024-07-17,Investment,Mutual Funds,4483.22,expense,Mutual Funds payment,July,7,2024
+2024-07-18,Housing,Maintenance,2462.36,expense,Maintenance payment,July,7,2024
+2024-07-18,Entertainment,Gaming,1068.79,expense,Gaming payment,July,7,2024
+2024-07-18,Shopping,Books,897.44,expense,Books payment,July,7,2024
+2024-07-18,Investment,Gold,3898.28,expense,Gold payment,July,7,2024
+2024-07-19,Housing,Electricity,1918.8,expense,Electricity payment,July,7,2024
+2024-07-19,Food,Restaurants,1985.72,expense,Restaurants payment,July,7,2024
+2024-07-19,Food,Food Delivery,404.49,expense,Food Delivery payment,July,7,2024
+2024-07-19,Transport,Metro,118.46,expense,Metro payment,July,7,2024
+2024-07-19,Investment,Mutual Funds,2895.92,expense,Mutual Funds payment,July,7,2024
+2024-07-19,Investment,Gold,3491.78,expense,Gold payment,July,7,2024
+2024-07-20,Housing,Maintenance,2260.88,expense,Maintenance payment,July,7,2024
+2024-07-20,Food,Coffee,369.96,expense,Coffee payment,July,7,2024
+2024-07-20,Transport,Metro,128.5,expense,Metro payment,July,7,2024
+2024-07-20,Entertainment,Events,1676.84,expense,Events payment,July,7,2024
+2024-07-20,Health,Doctor,634.5,expense,Doctor payment,July,7,2024
+2024-07-21,Entertainment,Movies,706.43,expense,Movies payment,July,7,2024
+2024-07-22,Food,Groceries,2090.79,expense,Groceries payment,July,7,2024
+2024-07-22,Food,Coffee,485.2,expense,Coffee payment,July,7,2024
+2024-07-22,Transport,Fuel,2027.16,expense,Fuel payment,July,7,2024
+2024-07-22,Transport,Uber,568.99,expense,Uber payment,July,7,2024
+2024-07-22,Transport,Metro,407.18,expense,Metro payment,July,7,2024
+2024-07-22,Entertainment,Movies,351.47,expense,Movies payment,July,7,2024
+2024-07-23,Food,Restaurants,2468.32,expense,Restaurants payment,July,7,2024
+2024-07-23,Food,Food Delivery,953.43,expense,Food Delivery payment,July,7,2024
+2024-07-23,Transport,Metro,365.04,expense,Metro payment,July,7,2024
+2024-07-23,Transport,Car Maintenance,4688.88,expense,Car Maintenance payment,July,7,2024
+2024-07-23,Shopping,Books,287.0,expense,Books payment,July,7,2024
+2024-07-24,Income,Freelance,17255.5,income,Freelance payment,July,7,2024
+2024-07-24,Food,Coffee,200.11,expense,Coffee payment,July,7,2024
+2024-07-24,Transport,Metro,159.69,expense,Metro payment,July,7,2024
+2024-07-24,Investment,Gold,1032.48,expense,Gold payment,July,7,2024
+2024-07-25,Income,Dividends,1235.46,income,Dividends payment,July,7,2024
+2024-07-25,Transport,Metro,381.34,expense,Metro payment,July,7,2024
+2024-07-26,Food,Restaurants,2175.17,expense,Restaurants payment,July,7,2024
+2024-07-26,Food,Food Delivery,461.13,expense,Food Delivery payment,July,7,2024
+2024-07-26,Transport,Metro,106.28,expense,Metro payment,July,7,2024
+2024-07-26,Health,Medicine,1356.04,expense,Medicine payment,July,7,2024
+2024-07-27,Food,Coffee,342.05,expense,Coffee payment,July,7,2024
+2024-07-27,Transport,Metro,264.34,expense,Metro payment,July,7,2024
+2024-07-27,Health,Doctor,1703.83,expense,Doctor payment,July,7,2024
+2024-07-27,Shopping,Electronics,11506.81,expense,Electronics payment,July,7,2024
+2024-07-27,Investment,Crypto,4559.66,expense,Crypto payment,July,7,2024
+2024-07-27,Investment,Gold,2889.81,expense,Gold payment,July,7,2024
+2024-07-28,Income,Dividends,2084.22,income,Dividends payment,July,7,2024
+2024-07-28,Transport,Metro,237.42,expense,Metro payment,July,7,2024
+2024-07-28,Shopping,Books,938.29,expense,Books payment,July,7,2024
+2024-07-28,Investment,Gold,2892.64,expense,Gold payment,July,7,2024
+2024-07-29,Income,Freelance,19855.47,income,Freelance payment,July,7,2024
+2024-07-29,Food,Groceries,2247.53,expense,Groceries payment,July,7,2024
+2024-07-29,Food,Coffee,503.36,expense,Coffee payment,July,7,2024
+2024-07-29,Transport,Fuel,2777.17,expense,Fuel payment,July,7,2024
+2024-07-29,Transport,Uber,422.28,expense,Uber payment,July,7,2024
+2024-07-29,Transport,Metro,212.39,expense,Metro payment,July,7,2024
+2024-07-29,Entertainment,Movies,355.77,expense,Movies payment,July,7,2024
+2024-07-29,Investment,Gold,1580.28,expense,Gold payment,July,7,2024
+2024-07-30,Food,Restaurants,1094.87,expense,Restaurants payment,July,7,2024
+2024-07-30,Food,Food Delivery,828.22,expense,Food Delivery payment,July,7,2024
+2024-07-30,Health,Doctor,919.0,expense,Doctor payment,July,7,2024
+2024-07-30,Savings,Emergency Fund,4610.83,expense,Emergency Fund payment,July,7,2024
+2024-07-31,Income,Freelance,18908.34,income,Freelance payment,July,7,2024
+2024-07-31,Food,Coffee,609.73,expense,Coffee payment,July,7,2024
+2024-07-31,Transport,Metro,467.08,expense,Metro payment,July,7,2024
+2024-07-31,Shopping,Electronics,10506.46,expense,Electronics payment,July,7,2024
+2024-08-01,Income,Salary,61902.78,income,Salary payment,August,8,2024
+2024-08-01,Housing,Rent,15000.0,expense,Rent payment,August,8,2024
+2024-08-01,Housing,Internet,699.0,expense,Internet payment,August,8,2024
+2024-08-01,Housing,Maintenance,759.77,expense,Maintenance payment,August,8,2024
+2024-08-01,Transport,Metro,187.77,expense,Metro payment,August,8,2024
+2024-08-01,Entertainment,OTT Subscriptions,693.08,expense,OTT Subscriptions payment,August,8,2024
+2024-08-01,Entertainment,Movies,345.97,expense,Movies payment,August,8,2024
+2024-08-01,Health,Gym,2335.46,expense,Gym payment,August,8,2024
+2024-08-01,Shopping,Electronics,13133.73,expense,Electronics payment,August,8,2024
+2024-08-01,Shopping,Home Decor,3453.78,expense,Home Decor payment,August,8,2024
+2024-08-02,Income,Salary,59669.56,income,Salary payment,August,8,2024
+2024-08-02,Housing,Rent,15000.0,expense,Rent payment,August,8,2024
+2024-08-02,Housing,Internet,699.0,expense,Internet payment,August,8,2024
+2024-08-02,Food,Restaurants,2424.7,expense,Restaurants payment,August,8,2024
+2024-08-02,Food,Food Delivery,688.08,expense,Food Delivery payment,August,8,2024
+2024-08-02,Transport,Metro,129.6,expense,Metro payment,August,8,2024
+2024-08-02,Entertainment,OTT Subscriptions,882.8,expense,OTT Subscriptions payment,August,8,2024
+2024-08-02,Entertainment,Gaming,1920.09,expense,Gaming payment,August,8,2024
+2024-08-02,Health,Gym,1940.57,expense,Gym payment,August,8,2024
+2024-08-02,Shopping,Books,814.97,expense,Books payment,August,8,2024
+2024-08-02,Savings,Emergency Fund,2218.76,expense,Emergency Fund payment,August,8,2024
+2024-08-03,Income,Salary,60713.45,income,Salary payment,August,8,2024
+2024-08-03,Housing,Rent,15000.0,expense,Rent payment,August,8,2024
+2024-08-03,Housing,Electricity,1568.4,expense,Electricity payment,August,8,2024
+2024-08-03,Housing,Internet,699.0,expense,Internet payment,August,8,2024
+2024-08-03,Food,Coffee,359.86,expense,Coffee payment,August,8,2024
+2024-08-03,Entertainment,OTT Subscriptions,1074.64,expense,OTT Subscriptions payment,August,8,2024
+2024-08-03,Health,Gym,1936.06,expense,Gym payment,August,8,2024
+2024-08-03,Shopping,Home Decor,4793.7,expense,Home Decor payment,August,8,2024
+2024-08-04,Housing,Maintenance,1836.57,expense,Maintenance payment,August,8,2024
+2024-08-04,Transport,Car Maintenance,2568.38,expense,Car Maintenance payment,August,8,2024
+2024-08-04,Health,Medicine,891.49,expense,Medicine payment,August,8,2024
+2024-08-04,Investment,Stocks,7429.54,expense,Stocks payment,August,8,2024
+2024-08-04,Investment,Crypto,1772.37,expense,Crypto payment,August,8,2024
+2024-08-05,Income,Dividends,1851.38,income,Dividends payment,August,8,2024
+2024-08-05,Food,Groceries,4502.75,expense,Groceries payment,August,8,2024
+2024-08-05,Food,Coffee,469.58,expense,Coffee payment,August,8,2024
+2024-08-05,Transport,Fuel,2993.75,expense,Fuel payment,August,8,2024
+2024-08-05,Transport,Uber,229.63,expense,Uber payment,August,8,2024
+2024-08-05,Transport,Metro,415.11,expense,Metro payment,August,8,2024
+2024-08-05,Transport,Car Maintenance,1031.84,expense,Car Maintenance payment,August,8,2024
+2024-08-05,Shopping,Clothing,3317.38,expense,Clothing payment,August,8,2024
+2024-08-05,Shopping,Home Decor,1137.16,expense,Home Decor payment,August,8,2024
+2024-08-05,Investment,Crypto,3805.19,expense,Crypto payment,August,8,2024
+2024-08-05,Investment,Gold,1689.0,expense,Gold payment,August,8,2024
+2024-08-05,Savings,Emergency Fund,2922.01,expense,Emergency Fund payment,August,8,2024
+2024-08-06,Food,Restaurants,2544.5,expense,Restaurants payment,August,8,2024
+2024-08-06,Food,Food Delivery,427.6,expense,Food Delivery payment,August,8,2024
+2024-08-06,Transport,Metro,419.67,expense,Metro payment,August,8,2024
+2024-08-06,Shopping,Books,869.14,expense,Books payment,August,8,2024
+2024-08-06,Savings,Emergency Fund,2423.71,expense,Emergency Fund payment,August,8,2024
+2024-08-07,Food,Coffee,755.41,expense,Coffee payment,August,8,2024
+2024-08-07,Transport,Metro,139.99,expense,Metro payment,August,8,2024
+2024-08-07,Entertainment,Events,1717.42,expense,Events payment,August,8,2024
+2024-08-07,Health,Medicine,522.94,expense,Medicine payment,August,8,2024
+2024-08-07,Health,Doctor,2129.39,expense,Doctor payment,August,8,2024
+2024-08-08,Housing,Electricity,1016.0,expense,Electricity payment,August,8,2024
+2024-08-08,Entertainment,Events,1089.1,expense,Events payment,August,8,2024
+2024-08-08,Health,Medicine,1154.36,expense,Medicine payment,August,8,2024
+2024-08-08,Health,Doctor,1404.75,expense,Doctor payment,August,8,2024
+2024-08-09,Food,Restaurants,607.79,expense,Restaurants payment,August,8,2024
+2024-08-09,Food,Food Delivery,1073.83,expense,Food Delivery payment,August,8,2024
+2024-08-09,Transport,Metro,273.87,expense,Metro payment,August,8,2024
+2024-08-09,Entertainment,Events,2351.04,expense,Events payment,August,8,2024
+2024-08-09,Shopping,Home Decor,4527.86,expense,Home Decor payment,August,8,2024
+2024-08-10,Housing,Electricity,1685.3,expense,Electricity payment,August,8,2024
+2024-08-10,Food,Coffee,425.32,expense,Coffee payment,August,8,2024
+2024-08-10,Transport,Metro,288.4,expense,Metro payment,August,8,2024
+2024-08-10,Entertainment,Gaming,1870.2,expense,Gaming payment,August,8,2024
+2024-08-10,Health,Doctor,2299.55,expense,Doctor payment,August,8,2024
+2024-08-10,Shopping,Books,753.77,expense,Books payment,August,8,2024
+2024-08-10,Investment,Stocks,3955.51,expense,Stocks payment,August,8,2024
+2024-08-11,Entertainment,Events,2642.43,expense,Events payment,August,8,2024
+2024-08-12,Income,Dividends,1934.25,income,Dividends payment,August,8,2024
+2024-08-12,Housing,Electricity,1976.22,expense,Electricity payment,August,8,2024
+2024-08-12,Housing,Maintenance,1676.63,expense,Maintenance payment,August,8,2024
+2024-08-12,Food,Groceries,4305.82,expense,Groceries payment,August,8,2024
+2024-08-12,Food,Coffee,220.17,expense,Coffee payment,August,8,2024
+2024-08-12,Transport,Fuel,2296.68,expense,Fuel payment,August,8,2024
+2024-08-12,Transport,Uber,583.42,expense,Uber payment,August,8,2024
+2024-08-12,Health,Medicine,1517.22,expense,Medicine payment,August,8,2024
+2024-08-12,Shopping,Clothing,2183.16,expense,Clothing payment,August,8,2024
+2024-08-12,Shopping,Home Decor,2659.02,expense,Home Decor payment,August,8,2024
+2024-08-12,Investment,Gold,2819.36,expense,Gold payment,August,8,2024
+2024-08-13,Food,Restaurants,1660.74,expense,Restaurants payment,August,8,2024
+2024-08-13,Food,Food Delivery,1060.08,expense,Food Delivery payment,August,8,2024
+2024-08-13,Transport,Car Maintenance,4520.45,expense,Car Maintenance payment,August,8,2024
+2024-08-13,Entertainment,Gaming,966.62,expense,Gaming payment,August,8,2024
+2024-08-13,Shopping,Home Decor,4463.81,expense,Home Decor payment,August,8,2024
+2024-08-13,Investment,Stocks,9617.26,expense,Stocks payment,August,8,2024
+2024-08-13,Investment,Gold,2462.36,expense,Gold payment,August,8,2024
+2024-08-14,Housing,Maintenance,2273.34,expense,Maintenance payment,August,8,2024
+2024-08-14,Food,Coffee,322.83,expense,Coffee payment,August,8,2024
+2024-08-14,Entertainment,Movies,539.25,expense,Movies payment,August,8,2024
+2024-08-14,Investment,Crypto,2380.91,expense,Crypto payment,August,8,2024
+2024-08-15,Income,Freelance,15647.38,income,Freelance payment,August,8,2024
+2024-08-15,Health,Medicine,1805.43,expense,Medicine payment,August,8,2024
+2024-08-15,Shopping,Clothing,4591.78,expense,Clothing payment,August,8,2024
+2024-08-15,Shopping,Books,420.75,expense,Books payment,August,8,2024
+2024-08-16,Housing,Maintenance,1366.75,expense,Maintenance payment,August,8,2024
+2024-08-16,Food,Restaurants,1609.65,expense,Restaurants payment,August,8,2024
+2024-08-16,Food,Food Delivery,1073.62,expense,Food Delivery payment,August,8,2024
+2024-08-16,Transport,Metro,125.18,expense,Metro payment,August,8,2024
+2024-08-16,Investment,Gold,4157.39,expense,Gold payment,August,8,2024
+2024-08-17,Food,Coffee,228.39,expense,Coffee payment,August,8,2024
+2024-08-17,Transport,Metro,282.37,expense,Metro payment,August,8,2024
+2024-08-17,Investment,Stocks,5216.38,expense,Stocks payment,August,8,2024
+2024-08-17,Investment,Mutual Funds,3562.44,expense,Mutual Funds payment,August,8,2024
+2024-08-17,Savings,Emergency Fund,2950.83,expense,Emergency Fund payment,August,8,2024
+2024-08-18,Transport,Metro,468.17,expense,Metro payment,August,8,2024
+2024-08-18,Entertainment,Gaming,1024.47,expense,Gaming payment,August,8,2024
+2024-08-18,Health,Medicine,1529.29,expense,Medicine payment,August,8,2024
+2024-08-18,Investment,Gold,3260.93,expense,Gold payment,August,8,2024
+2024-08-19,Food,Groceries,2418.27,expense,Groceries payment,August,8,2024
+2024-08-19,Food,Coffee,530.58,expense,Coffee payment,August,8,2024
+2024-08-19,Transport,Fuel,1962.12,expense,Fuel payment,August,8,2024
+2024-08-19,Transport,Uber,521.3,expense,Uber payment,August,8,2024
+2024-08-19,Entertainment,Movies,327.52,expense,Movies payment,August,8,2024
+2024-08-19,Shopping,Electronics,8999.36,expense,Electronics payment,August,8,2024
+2024-08-19,Investment,Stocks,6582.51,expense,Stocks payment,August,8,2024
+2024-08-20,Housing,Electricity,1824.56,expense,Electricity payment,August,8,2024
+2024-08-20,Food,Restaurants,1432.08,expense,Restaurants payment,August,8,2024
+2024-08-20,Food,Food Delivery,641.58,expense,Food Delivery payment,August,8,2024
+2024-08-20,Transport,Metro,491.01,expense,Metro payment,August,8,2024
+2024-08-20,Entertainment,Movies,663.93,expense,Movies payment,August,8,2024
+2024-08-20,Investment,Stocks,7110.26,expense,Stocks payment,August,8,2024
+2024-08-20,Investment,Mutual Funds,3246.7,expense,Mutual Funds payment,August,8,2024
+2024-08-21,Income,Freelance,19401.43,income,Freelance payment,August,8,2024
+2024-08-21,Housing,Electricity,1291.35,expense,Electricity payment,August,8,2024
+2024-08-21,Food,Coffee,448.71,expense,Coffee payment,August,8,2024
+2024-08-21,Transport,Metro,384.1,expense,Metro payment,August,8,2024
+2024-08-21,Entertainment,Movies,393.0,expense,Movies payment,August,8,2024
+2024-08-21,Health,Medicine,1687.25,expense,Medicine payment,August,8,2024
+2024-08-21,Shopping,Books,201.96,expense,Books payment,August,8,2024
+2024-08-22,Transport,Metro,147.74,expense,Metro payment,August,8,2024
+2024-08-22,Entertainment,Gaming,1542.02,expense,Gaming payment,August,8,2024
+2024-08-22,Shopping,Books,610.02,expense,Books payment,August,8,2024
+2024-08-22,Investment,Gold,2278.72,expense,Gold payment,August,8,2024
+2024-08-23,Income,Freelance,7449.63,income,Freelance payment,August,8,2024
+2024-08-23,Food,Restaurants,1389.96,expense,Restaurants payment,August,8,2024
+2024-08-23,Food,Food Delivery,647.83,expense,Food Delivery payment,August,8,2024
+2024-08-23,Transport,Metro,474.53,expense,Metro payment,August,8,2024
+2024-08-23,Entertainment,Events,2381.57,expense,Events payment,August,8,2024
+2024-08-23,Investment,Mutual Funds,5480.28,expense,Mutual Funds payment,August,8,2024
+2024-08-23,Investment,Gold,3072.68,expense,Gold payment,August,8,2024
+2024-08-24,Housing,Maintenance,886.39,expense,Maintenance payment,August,8,2024
+2024-08-24,Food,Coffee,332.67,expense,Coffee payment,August,8,2024
+2024-08-24,Transport,Metro,458.82,expense,Metro payment,August,8,2024
+2024-08-24,Shopping,Clothing,2841.97,expense,Clothing payment,August,8,2024
+2024-08-24,Shopping,Electronics,12644.98,expense,Electronics payment,August,8,2024
+2024-08-25,Housing,Maintenance,2536.44,expense,Maintenance payment,August,8,2024
+2024-08-25,Transport,Metro,442.73,expense,Metro payment,August,8,2024
+2024-08-25,Transport,Car Maintenance,1519.58,expense,Car Maintenance payment,August,8,2024
+2024-08-25,Entertainment,Movies,365.11,expense,Movies payment,August,8,2024
+2024-08-25,Entertainment,Gaming,1443.47,expense,Gaming payment,August,8,2024
+2024-08-25,Health,Medicine,1594.45,expense,Medicine payment,August,8,2024
+2024-08-25,Shopping,Clothing,1431.27,expense,Clothing payment,August,8,2024
+2024-08-25,Shopping,Books,295.14,expense,Books payment,August,8,2024
+2024-08-25,Investment,Mutual Funds,6005.52,expense,Mutual Funds payment,August,8,2024
+2024-08-26,Food,Groceries,2272.34,expense,Groceries payment,August,8,2024
+2024-08-26,Food,Coffee,707.52,expense,Coffee payment,August,8,2024
+2024-08-26,Transport,Fuel,2912.77,expense,Fuel payment,August,8,2024
+2024-08-26,Transport,Uber,959.03,expense,Uber payment,August,8,2024
+2024-08-26,Transport,Metro,164.22,expense,Metro payment,August,8,2024
+2024-08-26,Health,Medicine,1240.64,expense,Medicine payment,August,8,2024
+2024-08-26,Health,Doctor,1042.5,expense,Doctor payment,August,8,2024
+2024-08-26,Investment,Mutual Funds,3284.09,expense,Mutual Funds payment,August,8,2024
+2024-08-27,Food,Restaurants,1387.06,expense,Restaurants payment,August,8,2024
+2024-08-27,Food,Food Delivery,755.54,expense,Food Delivery payment,August,8,2024
+2024-08-27,Transport,Metro,191.02,expense,Metro payment,August,8,2024
+2024-08-27,Transport,Car Maintenance,4930.76,expense,Car Maintenance payment,August,8,2024
+2024-08-27,Entertainment,Movies,355.16,expense,Movies payment,August,8,2024
+2024-08-27,Entertainment,Gaming,1572.09,expense,Gaming payment,August,8,2024
+2024-08-27,Health,Doctor,1320.29,expense,Doctor payment,August,8,2024
+2024-08-27,Shopping,Clothing,2134.45,expense,Clothing payment,August,8,2024
+2024-08-28,Income,Freelance,17615.87,income,Freelance payment,August,8,2024
+2024-08-28,Food,Coffee,799.23,expense,Coffee payment,August,8,2024
+2024-08-28,Transport,Metro,142.07,expense,Metro payment,August,8,2024
+2024-08-28,Entertainment,Gaming,458.06,expense,Gaming payment,August,8,2024
+2024-08-28,Health,Doctor,2813.23,expense,Doctor payment,August,8,2024
+2024-08-28,Shopping,Electronics,14677.7,expense,Electronics payment,August,8,2024
+2024-08-28,Investment,Mutual Funds,7028.65,expense,Mutual Funds payment,August,8,2024
+2024-08-29,Transport,Metro,290.33,expense,Metro payment,August,8,2024
+2024-08-29,Health,Doctor,1126.72,expense,Doctor payment,August,8,2024
+2024-08-29,Shopping,Home Decor,948.22,expense,Home Decor payment,August,8,2024
+2024-08-29,Shopping,Books,254.58,expense,Books payment,August,8,2024
+2024-08-30,Income,Dividends,691.29,income,Dividends payment,August,8,2024
+2024-08-30,Food,Restaurants,2481.83,expense,Restaurants payment,August,8,2024
+2024-08-30,Food,Food Delivery,542.32,expense,Food Delivery payment,August,8,2024
+2024-08-30,Shopping,Clothing,2721.63,expense,Clothing payment,August,8,2024
+2024-08-30,Investment,Crypto,3226.67,expense,Crypto payment,August,8,2024
+2024-08-31,Housing,Electricity,1658.87,expense,Electricity payment,August,8,2024
+2024-08-31,Food,Coffee,265.63,expense,Coffee payment,August,8,2024
+2024-08-31,Investment,Gold,1180.47,expense,Gold payment,August,8,2024
+2024-09-01,Income,Salary,58488.77,income,Salary payment,September,9,2024
+2024-09-01,Income,Dividends,2728.36,income,Dividends payment,September,9,2024
+2024-09-01,Housing,Rent,15000.0,expense,Rent payment,September,9,2024
+2024-09-01,Housing,Electricity,1214.17,expense,Electricity payment,September,9,2024
+2024-09-01,Housing,Internet,699.0,expense,Internet payment,September,9,2024
+2024-09-01,Entertainment,OTT Subscriptions,1148.08,expense,OTT Subscriptions payment,September,9,2024
+2024-09-01,Entertainment,Events,1262.28,expense,Events payment,September,9,2024
+2024-09-01,Health,Gym,1837.59,expense,Gym payment,September,9,2024
+2024-09-01,Health,Medicine,787.01,expense,Medicine payment,September,9,2024
+2024-09-02,Income,Salary,60725.39,income,Salary payment,September,9,2024
+2024-09-02,Income,Dividends,2187.78,income,Dividends payment,September,9,2024
+2024-09-02,Housing,Rent,15000.0,expense,Rent payment,September,9,2024
+2024-09-02,Housing,Internet,699.0,expense,Internet payment,September,9,2024
+2024-09-02,Food,Groceries,3844.48,expense,Groceries payment,September,9,2024
+2024-09-02,Food,Coffee,418.0,expense,Coffee payment,September,9,2024
+2024-09-02,Transport,Fuel,2153.99,expense,Fuel payment,September,9,2024
+2024-09-02,Transport,Uber,597.56,expense,Uber payment,September,9,2024
+2024-09-02,Entertainment,OTT Subscriptions,1340.38,expense,OTT Subscriptions payment,September,9,2024
+2024-09-02,Entertainment,Events,2990.57,expense,Events payment,September,9,2024
+2024-09-02,Health,Gym,1902.03,expense,Gym payment,September,9,2024
+2024-09-02,Shopping,Clothing,4376.75,expense,Clothing payment,September,9,2024
+2024-09-02,Shopping,Electronics,6378.89,expense,Electronics payment,September,9,2024
+2024-09-02,Shopping,Home Decor,4105.34,expense,Home Decor payment,September,9,2024
+2024-09-03,Income,Salary,59329.1,income,Salary payment,September,9,2024
+2024-09-03,Housing,Rent,15000.0,expense,Rent payment,September,9,2024
+2024-09-03,Housing,Internet,699.0,expense,Internet payment,September,9,2024
+2024-09-03,Food,Restaurants,951.5,expense,Restaurants payment,September,9,2024
+2024-09-03,Food,Food Delivery,322.32,expense,Food Delivery payment,September,9,2024
+2024-09-03,Entertainment,OTT Subscriptions,1076.84,expense,OTT Subscriptions payment,September,9,2024
+2024-09-03,Health,Gym,1967.3,expense,Gym payment,September,9,2024
+2024-09-03,Investment,Gold,1601.89,expense,Gold payment,September,9,2024
+2024-09-04,Food,Coffee,238.66,expense,Coffee payment,September,9,2024
+2024-09-04,Transport,Metro,264.98,expense,Metro payment,September,9,2024
+2024-09-04,Health,Doctor,979.79,expense,Doctor payment,September,9,2024
+2024-09-04,Investment,Crypto,1637.43,expense,Crypto payment,September,9,2024
+2024-09-04,Investment,Gold,2033.59,expense,Gold payment,September,9,2024
+2024-09-05,Transport,Metro,107.96,expense,Metro payment,September,9,2024
+2024-09-05,Entertainment,Movies,600.8,expense,Movies payment,September,9,2024
+2024-09-05,Shopping,Electronics,14261.11,expense,Electronics payment,September,9,2024
+2024-09-05,Shopping,Books,289.55,expense,Books payment,September,9,2024
+2024-09-06,Food,Restaurants,805.69,expense,Restaurants payment,September,9,2024
+2024-09-06,Food,Food Delivery,1268.02,expense,Food Delivery payment,September,9,2024
+2024-09-06,Transport,Metro,333.73,expense,Metro payment,September,9,2024
+2024-09-06,Health,Medicine,515.28,expense,Medicine payment,September,9,2024
+2024-09-07,Food,Coffee,629.4,expense,Coffee payment,September,9,2024
+2024-09-07,Transport,Car Maintenance,4850.62,expense,Car Maintenance payment,September,9,2024
+2024-09-07,Investment,Gold,4467.81,expense,Gold payment,September,9,2024
+2024-09-08,Transport,Metro,136.1,expense,Metro payment,September,9,2024
+2024-09-08,Shopping,Books,893.16,expense,Books payment,September,9,2024
+2024-09-09,Food,Groceries,4095.45,expense,Groceries payment,September,9,2024
+2024-09-09,Food,Coffee,503.8,expense,Coffee payment,September,9,2024
+2024-09-09,Transport,Fuel,2027.78,expense,Fuel payment,September,9,2024
+2024-09-09,Transport,Uber,681.69,expense,Uber payment,September,9,2024
+2024-09-09,Entertainment,Gaming,293.78,expense,Gaming payment,September,9,2024
+2024-09-09,Shopping,Clothing,2602.65,expense,Clothing payment,September,9,2024
+2024-09-09,Shopping,Books,326.26,expense,Books payment,September,9,2024
+2024-09-10,Food,Restaurants,2337.93,expense,Restaurants payment,September,9,2024
+2024-09-10,Food,Food Delivery,612.82,expense,Food Delivery payment,September,9,2024
+2024-09-11,Food,Coffee,457.34,expense,Coffee payment,September,9,2024
+2024-09-11,Transport,Metro,135.62,expense,Metro payment,September,9,2024
+2024-09-11,Entertainment,Gaming,1493.45,expense,Gaming payment,September,9,2024
+2024-09-11,Shopping,Electronics,11276.33,expense,Electronics payment,September,9,2024
+2024-09-11,Investment,Gold,4425.35,expense,Gold payment,September,9,2024
+2024-09-12,Transport,Metro,158.38,expense,Metro payment,September,9,2024
+2024-09-12,Shopping,Electronics,3731.66,expense,Electronics payment,September,9,2024
+2024-09-13,Income,Freelance,5881.28,income,Freelance payment,September,9,2024
+2024-09-13,Food,Restaurants,2991.85,expense,Restaurants payment,September,9,2024
+2024-09-13,Food,Food Delivery,1427.19,expense,Food Delivery payment,September,9,2024
+2024-09-13,Entertainment,Gaming,656.58,expense,Gaming payment,September,9,2024
+2024-09-13,Savings,Emergency Fund,2951.95,expense,Emergency Fund payment,September,9,2024
+2024-09-14,Income,Dividends,792.11,income,Dividends payment,September,9,2024
+2024-09-14,Housing,Electricity,953.45,expense,Electricity payment,September,9,2024
+2024-09-14,Food,Coffee,700.88,expense,Coffee payment,September,9,2024
+2024-09-15,Income,Freelance,7229.31,income,Freelance payment,September,9,2024
+2024-09-15,Housing,Electricity,1112.27,expense,Electricity payment,September,9,2024
+2024-09-15,Transport,Metro,498.08,expense,Metro payment,September,9,2024
+2024-09-15,Entertainment,Movies,478.26,expense,Movies payment,September,9,2024
+2024-09-15,Shopping,Electronics,3216.51,expense,Electronics payment,September,9,2024
+2024-09-16,Food,Groceries,3249.26,expense,Groceries payment,September,9,2024
+2024-09-16,Food,Coffee,246.1,expense,Coffee payment,September,9,2024
+2024-09-16,Transport,Fuel,2652.38,expense,Fuel payment,September,9,2024
+2024-09-16,Transport,Uber,741.53,expense,Uber payment,September,9,2024
+2024-09-16,Transport,Car Maintenance,3565.91,expense,Car Maintenance payment,September,9,2024
+2024-09-16,Shopping,Electronics,12799.09,expense,Electronics payment,September,9,2024
+2024-09-16,Investment,Crypto,4879.08,expense,Crypto payment,September,9,2024
+2024-09-17,Food,Restaurants,1922.9,expense,Restaurants payment,September,9,2024
+2024-09-17,Food,Food Delivery,553.64,expense,Food Delivery payment,September,9,2024
+2024-09-17,Transport,Metro,357.46,expense,Metro payment,September,9,2024
+2024-09-17,Entertainment,Movies,335.36,expense,Movies payment,September,9,2024
+2024-09-17,Shopping,Home Decor,4335.56,expense,Home Decor payment,September,9,2024
+2024-09-17,Savings,Emergency Fund,3472.54,expense,Emergency Fund payment,September,9,2024
+2024-09-18,Food,Coffee,278.77,expense,Coffee payment,September,9,2024
+2024-09-18,Investment,Crypto,2366.98,expense,Crypto payment,September,9,2024
+2024-09-19,Transport,Metro,216.28,expense,Metro payment,September,9,2024
+2024-09-19,Entertainment,Events,819.47,expense,Events payment,September,9,2024
+2024-09-19,Shopping,Home Decor,844.4,expense,Home Decor payment,September,9,2024
+2024-09-19,Shopping,Books,286.11,expense,Books payment,September,9,2024
+2024-09-19,Investment,Mutual Funds,5965.13,expense,Mutual Funds payment,September,9,2024
+2024-09-20,Income,Freelance,12551.67,income,Freelance payment,September,9,2024
+2024-09-20,Income,Dividends,2153.95,income,Dividends payment,September,9,2024
+2024-09-20,Food,Restaurants,1482.39,expense,Restaurants payment,September,9,2024
+2024-09-20,Food,Food Delivery,399.95,expense,Food Delivery payment,September,9,2024
+2024-09-20,Investment,Gold,3137.5,expense,Gold payment,September,9,2024
+2024-09-20,Savings,Emergency Fund,2350.03,expense,Emergency Fund payment,September,9,2024
+2024-09-21,Food,Coffee,779.48,expense,Coffee payment,September,9,2024
+2024-09-21,Shopping,Home Decor,562.44,expense,Home Decor payment,September,9,2024
+2024-09-21,Shopping,Books,212.71,expense,Books payment,September,9,2024
+2024-09-22,Transport,Metro,285.37,expense,Metro payment,September,9,2024
+2024-09-22,Entertainment,Movies,383.05,expense,Movies payment,September,9,2024
+2024-09-22,Investment,Mutual Funds,2047.25,expense,Mutual Funds payment,September,9,2024
+2024-09-23,Food,Groceries,2872.32,expense,Groceries payment,September,9,2024
+2024-09-23,Food,Coffee,492.5,expense,Coffee payment,September,9,2024
+2024-09-23,Transport,Fuel,2229.15,expense,Fuel payment,September,9,2024
+2024-09-23,Transport,Uber,672.83,expense,Uber payment,September,9,2024
+2024-09-23,Shopping,Electronics,13607.4,expense,Electronics payment,September,9,2024
+2024-09-23,Savings,Emergency Fund,2864.03,expense,Emergency Fund payment,September,9,2024
+2024-09-24,Food,Restaurants,2772.68,expense,Restaurants payment,September,9,2024
+2024-09-24,Food,Food Delivery,706.98,expense,Food Delivery payment,September,9,2024
+2024-09-24,Entertainment,Gaming,728.11,expense,Gaming payment,September,9,2024
+2024-09-25,Income,Freelance,7992.26,income,Freelance payment,September,9,2024
+2024-09-25,Housing,Electricity,1299.18,expense,Electricity payment,September,9,2024
+2024-09-25,Food,Coffee,382.19,expense,Coffee payment,September,9,2024
+2024-09-25,Transport,Metro,118.82,expense,Metro payment,September,9,2024
+2024-09-25,Transport,Car Maintenance,4464.08,expense,Car Maintenance payment,September,9,2024
+2024-09-25,Health,Doctor,659.16,expense,Doctor payment,September,9,2024
+2024-09-25,Shopping,Home Decor,1508.43,expense,Home Decor payment,September,9,2024
+2024-09-25,Investment,Crypto,4510.85,expense,Crypto payment,September,9,2024
+2024-09-26,Entertainment,Events,764.73,expense,Events payment,September,9,2024
+2024-09-26,Shopping,Home Decor,974.35,expense,Home Decor payment,September,9,2024
+2024-09-27,Housing,Electricity,1576.51,expense,Electricity payment,September,9,2024
+2024-09-27,Food,Restaurants,844.43,expense,Restaurants payment,September,9,2024
+2024-09-27,Food,Food Delivery,1318.31,expense,Food Delivery payment,September,9,2024
+2024-09-27,Transport,Metro,266.3,expense,Metro payment,September,9,2024
+2024-09-27,Health,Doctor,1431.09,expense,Doctor payment,September,9,2024
+2024-09-28,Food,Coffee,417.06,expense,Coffee payment,September,9,2024
+2024-09-28,Transport,Metro,158.23,expense,Metro payment,September,9,2024
+2024-09-28,Transport,Car Maintenance,4128.11,expense,Car Maintenance payment,September,9,2024
+2024-09-28,Entertainment,Gaming,766.65,expense,Gaming payment,September,9,2024
+2024-09-28,Health,Doctor,2397.98,expense,Doctor payment,September,9,2024
+2024-09-28,Shopping,Books,705.29,expense,Books payment,September,9,2024
+2024-09-29,Transport,Car Maintenance,1759.01,expense,Car Maintenance payment,September,9,2024
+2024-09-30,Income,Freelance,10017.39,income,Freelance payment,September,9,2024
+2024-09-30,Housing,Maintenance,2979.81,expense,Maintenance payment,September,9,2024
+2024-09-30,Food,Groceries,2851.78,expense,Groceries payment,September,9,2024
+2024-09-30,Food,Coffee,255.69,expense,Coffee payment,September,9,2024
+2024-09-30,Transport,Fuel,2327.68,expense,Fuel payment,September,9,2024
+2024-09-30,Transport,Uber,617.07,expense,Uber payment,September,9,2024
+2024-09-30,Entertainment,Movies,698.3,expense,Movies payment,September,9,2024
+2024-09-30,Shopping,Electronics,2779.29,expense,Electronics payment,September,9,2024
+2024-09-30,Investment,Mutual Funds,5905.77,expense,Mutual Funds payment,September,9,2024
+2024-09-30,Investment,Crypto,2191.84,expense,Crypto payment,September,9,2024
+2024-10-01,Income,Salary,64829.51,income,Salary payment,October,10,2024
+2024-10-01,Housing,Rent,15000.0,expense,Rent payment,October,10,2024
+2024-10-01,Housing,Internet,699.0,expense,Internet payment,October,10,2024
+2024-10-01,Food,Restaurants,1988.87,expense,Restaurants payment,October,10,2024
+2024-10-01,Food,Food Delivery,720.4,expense,Food Delivery payment,October,10,2024
+2024-10-01,Transport,Metro,413.92,expense,Metro payment,October,10,2024
+2024-10-01,Entertainment,OTT Subscriptions,1172.43,expense,OTT Subscriptions payment,October,10,2024
+2024-10-01,Health,Gym,1827.85,expense,Gym payment,October,10,2024
+2024-10-01,Health,Insurance,3083.8,expense,Insurance payment,October,10,2024
+2024-10-01,Shopping,Clothing,3846.56,expense,Clothing payment,October,10,2024
+2024-10-01,Shopping,Home Decor,779.87,expense,Home Decor payment,October,10,2024
+2024-10-01,Savings,Fixed Deposit,12784.17,expense,Fixed Deposit payment,October,10,2024
+2024-10-02,Income,Salary,58947.82,income,Salary payment,October,10,2024
+2024-10-02,Housing,Rent,15000.0,expense,Rent payment,October,10,2024
+2024-10-02,Housing,Internet,699.0,expense,Internet payment,October,10,2024
+2024-10-02,Food,Coffee,783.96,expense,Coffee payment,October,10,2024
+2024-10-02,Transport,Car Maintenance,1072.06,expense,Car Maintenance payment,October,10,2024
+2024-10-02,Entertainment,OTT Subscriptions,1211.15,expense,OTT Subscriptions payment,October,10,2024
+2024-10-02,Entertainment,Movies,652.26,expense,Movies payment,October,10,2024
+2024-10-02,Entertainment,Events,1031.61,expense,Events payment,October,10,2024
+2024-10-02,Health,Gym,1973.36,expense,Gym payment,October,10,2024
+2024-10-02,Health,Insurance,3108.0,expense,Insurance payment,October,10,2024
+2024-10-02,Shopping,Books,657.41,expense,Books payment,October,10,2024
+2024-10-02,Investment,Stocks,4073.13,expense,Stocks payment,October,10,2024
+2024-10-02,Savings,Fixed Deposit,16868.06,expense,Fixed Deposit payment,October,10,2024
+2024-10-03,Income,Salary,56421.4,income,Salary payment,October,10,2024
+2024-10-03,Income,Dividends,2735.63,income,Dividends payment,October,10,2024
+2024-10-03,Housing,Rent,15000.0,expense,Rent payment,October,10,2024
+2024-10-03,Housing,Internet,699.0,expense,Internet payment,October,10,2024
+2024-10-03,Transport,Metro,239.46,expense,Metro payment,October,10,2024
+2024-10-03,Entertainment,OTT Subscriptions,917.58,expense,OTT Subscriptions payment,October,10,2024
+2024-10-03,Health,Gym,2281.35,expense,Gym payment,October,10,2024
+2024-10-04,Food,Restaurants,1852.49,expense,Restaurants payment,October,10,2024
+2024-10-04,Food,Food Delivery,1449.7,expense,Food Delivery payment,October,10,2024
+2024-10-04,Shopping,Home Decor,3017.09,expense,Home Decor payment,October,10,2024
+2024-10-04,Investment,Crypto,3280.98,expense,Crypto payment,October,10,2024
+2024-10-05,Income,Dividends,2840.45,income,Dividends payment,October,10,2024
+2024-10-05,Housing,Maintenance,2466.89,expense,Maintenance payment,October,10,2024
+2024-10-05,Food,Coffee,347.17,expense,Coffee payment,October,10,2024
+2024-10-05,Health,Doctor,2654.94,expense,Doctor payment,October,10,2024
+2024-10-05,Shopping,Clothing,2748.07,expense,Clothing payment,October,10,2024
+2024-10-05,Investment,Mutual Funds,2596.0,expense,Mutual Funds payment,October,10,2024
+2024-10-05,Investment,Gold,2022.22,expense,Gold payment,October,10,2024
+2024-10-05,Savings,Emergency Fund,2920.38,expense,Emergency Fund payment,October,10,2024
+2024-10-06,Transport,Metro,123.4,expense,Metro payment,October,10,2024
+2024-10-06,Shopping,Clothing,1810.24,expense,Clothing payment,October,10,2024
+2024-10-06,Investment,Crypto,1242.53,expense,Crypto payment,October,10,2024
+2024-10-07,Food,Groceries,2807.48,expense,Groceries payment,October,10,2024
+2024-10-07,Food,Coffee,778.08,expense,Coffee payment,October,10,2024
+2024-10-07,Transport,Fuel,2512.65,expense,Fuel payment,October,10,2024
+2024-10-07,Transport,Uber,397.05,expense,Uber payment,October,10,2024
+2024-10-07,Transport,Metro,414.09,expense,Metro payment,October,10,2024
+2024-10-07,Entertainment,Gaming,1344.44,expense,Gaming payment,October,10,2024
+2024-10-07,Investment,Crypto,2858.61,expense,Crypto payment,October,10,2024
+2024-10-08,Income,Dividends,2833.77,income,Dividends payment,October,10,2024
+2024-10-08,Food,Restaurants,2598.72,expense,Restaurants payment,October,10,2024
+2024-10-08,Food,Food Delivery,756.18,expense,Food Delivery payment,October,10,2024
+2024-10-08,Transport,Metro,352.88,expense,Metro payment,October,10,2024
+2024-10-08,Entertainment,Gaming,1530.53,expense,Gaming payment,October,10,2024
+2024-10-08,Shopping,Clothing,1558.6,expense,Clothing payment,October,10,2024
+2024-10-09,Food,Coffee,789.81,expense,Coffee payment,October,10,2024
+2024-10-09,Transport,Metro,283.92,expense,Metro payment,October,10,2024
+2024-10-09,Entertainment,Movies,645.92,expense,Movies payment,October,10,2024
+2024-10-09,Entertainment,Events,1691.32,expense,Events payment,October,10,2024
+2024-10-09,Investment,Gold,1123.79,expense,Gold payment,October,10,2024
+2024-10-10,Health,Medicine,1032.85,expense,Medicine payment,October,10,2024
+2024-10-10,Shopping,Home Decor,1765.11,expense,Home Decor payment,October,10,2024
+2024-10-10,Investment,Mutual Funds,5680.66,expense,Mutual Funds payment,October,10,2024
+2024-10-11,Food,Restaurants,2267.42,expense,Restaurants payment,October,10,2024
+2024-10-11,Food,Food Delivery,550.9,expense,Food Delivery payment,October,10,2024
+2024-10-11,Transport,Metro,428.45,expense,Metro payment,October,10,2024
+2024-10-11,Shopping,Books,302.6,expense,Books payment,October,10,2024
+2024-10-11,Investment,Stocks,4817.37,expense,Stocks payment,October,10,2024
+2024-10-12,Food,Coffee,519.76,expense,Coffee payment,October,10,2024
+2024-10-12,Transport,Metro,324.05,expense,Metro payment,October,10,2024
+2024-10-12,Health,Medicine,1889.77,expense,Medicine payment,October,10,2024
+2024-10-13,Housing,Electricity,1033.53,expense,Electricity payment,October,10,2024
+2024-10-13,Housing,Maintenance,1929.55,expense,Maintenance payment,October,10,2024
+2024-10-13,Transport,Metro,394.98,expense,Metro payment,October,10,2024
+2024-10-13,Entertainment,Gaming,649.97,expense,Gaming payment,October,10,2024
+2024-10-13,Shopping,Clothing,2919.87,expense,Clothing payment,October,10,2024
+2024-10-13,Investment,Crypto,1953.44,expense,Crypto payment,October,10,2024
+2024-10-13,Savings,Emergency Fund,3000.77,expense,Emergency Fund payment,October,10,2024
+2024-10-14,Food,Groceries,4292.3,expense,Groceries payment,October,10,2024
+2024-10-14,Food,Coffee,575.21,expense,Coffee payment,October,10,2024
+2024-10-14,Transport,Fuel,2368.4,expense,Fuel payment,October,10,2024
+2024-10-14,Transport,Uber,268.43,expense,Uber payment,October,10,2024
+2024-10-14,Transport,Metro,113.34,expense,Metro payment,October,10,2024
+2024-10-14,Entertainment,Gaming,429.56,expense,Gaming payment,October,10,2024
+2024-10-14,Shopping,Electronics,10808.34,expense,Electronics payment,October,10,2024
+2024-10-14,Investment,Mutual Funds,6511.78,expense,Mutual Funds payment,October,10,2024
+2024-10-15,Income,Freelance,10758.8,income,Freelance payment,October,10,2024
+2024-10-15,Food,Restaurants,1349.04,expense,Restaurants payment,October,10,2024
+2024-10-15,Food,Food Delivery,1425.1,expense,Food Delivery payment,October,10,2024
+2024-10-15,Entertainment,Events,1987.94,expense,Events payment,October,10,2024
+2024-10-15,Health,Medicine,1620.95,expense,Medicine payment,October,10,2024
+2024-10-15,Savings,Emergency Fund,2935.0,expense,Emergency Fund payment,October,10,2024
+2024-10-16,Food,Coffee,731.13,expense,Coffee payment,October,10,2024
+2024-10-16,Transport,Car Maintenance,1889.03,expense,Car Maintenance payment,October,10,2024
+2024-10-16,Entertainment,Events,1966.1,expense,Events payment,October,10,2024
+2024-10-16,Health,Doctor,1767.77,expense,Doctor payment,October,10,2024
+2024-10-17,Transport,Metro,485.23,expense,Metro payment,October,10,2024
+2024-10-17,Health,Doctor,1048.51,expense,Doctor payment,October,10,2024
+2024-10-17,Shopping,Clothing,1892.1,expense,Clothing payment,October,10,2024
+2024-10-18,Housing,Maintenance,575.04,expense,Maintenance payment,October,10,2024
+2024-10-18,Food,Restaurants,787.97,expense,Restaurants payment,October,10,2024
+2024-10-18,Food,Food Delivery,648.69,expense,Food Delivery payment,October,10,2024
+2024-10-18,Transport,Metro,334.27,expense,Metro payment,October,10,2024
+2024-10-18,Entertainment,Movies,314.84,expense,Movies payment,October,10,2024
+2024-10-18,Shopping,Books,874.31,expense,Books payment,October,10,2024
+2024-10-18,Investment,Mutual Funds,6064.71,expense,Mutual Funds payment,October,10,2024
+2024-10-18,Savings,Emergency Fund,4808.34,expense,Emergency Fund payment,October,10,2024
+2024-10-19,Food,Coffee,764.7,expense,Coffee payment,October,10,2024
+2024-10-19,Entertainment,Events,861.08,expense,Events payment,October,10,2024
+2024-10-19,Investment,Crypto,3464.11,expense,Crypto payment,October,10,2024
+2024-10-20,Housing,Electricity,1754.73,expense,Electricity payment,October,10,2024
+2024-10-20,Entertainment,Events,1676.67,expense,Events payment,October,10,2024
+2024-10-20,Health,Doctor,1771.53,expense,Doctor payment,October,10,2024
+2024-10-21,Food,Groceries,3751.95,expense,Groceries payment,October,10,2024
+2024-10-21,Food,Coffee,221.96,expense,Coffee payment,October,10,2024
+2024-10-21,Transport,Fuel,1829.29,expense,Fuel payment,October,10,2024
+2024-10-21,Transport,Uber,362.4,expense,Uber payment,October,10,2024
+2024-10-21,Shopping,Electronics,3092.37,expense,Electronics payment,October,10,2024
+2024-10-22,Food,Restaurants,948.91,expense,Restaurants payment,October,10,2024
+2024-10-22,Food,Food Delivery,580.55,expense,Food Delivery payment,October,10,2024
+2024-10-22,Entertainment,Movies,721.3,expense,Movies payment,October,10,2024
+2024-10-22,Shopping,Clothing,1285.39,expense,Clothing payment,October,10,2024
+2024-10-22,Shopping,Electronics,4603.99,expense,Electronics payment,October,10,2024
+2024-10-23,Food,Coffee,747.43,expense,Coffee payment,October,10,2024
+2024-10-23,Transport,Metro,219.79,expense,Metro payment,October,10,2024
+2024-10-23,Shopping,Books,518.0,expense,Books payment,October,10,2024
+2024-10-24,Transport,Metro,175.14,expense,Metro payment,October,10,2024
+2024-10-24,Shopping,Electronics,14263.6,expense,Electronics payment,October,10,2024
+2024-10-24,Shopping,Home Decor,4146.81,expense,Home Decor payment,October,10,2024
+2024-10-25,Housing,Electricity,1742.43,expense,Electricity payment,October,10,2024
+2024-10-25,Food,Restaurants,884.23,expense,Restaurants payment,October,10,2024
+2024-10-25,Food,Food Delivery,1443.17,expense,Food Delivery payment,October,10,2024
+2024-10-25,Transport,Metro,351.94,expense,Metro payment,October,10,2024
+2024-10-25,Shopping,Home Decor,3062.82,expense,Home Decor payment,October,10,2024
+2024-10-25,Investment,Mutual Funds,2625.88,expense,Mutual Funds payment,October,10,2024
+2024-10-25,Investment,Gold,3756.1,expense,Gold payment,October,10,2024
+2024-10-26,Income,Dividends,2907.49,income,Dividends payment,October,10,2024
+2024-10-26,Food,Coffee,595.74,expense,Coffee payment,October,10,2024
+2024-10-26,Transport,Metro,122.98,expense,Metro payment,October,10,2024
+2024-10-26,Health,Doctor,1841.13,expense,Doctor payment,October,10,2024
+2024-10-26,Shopping,Electronics,14416.26,expense,Electronics payment,October,10,2024
+2024-10-26,Shopping,Books,364.54,expense,Books payment,October,10,2024
+2024-10-27,Transport,Metro,157.08,expense,Metro payment,October,10,2024
+2024-10-27,Transport,Car Maintenance,2296.57,expense,Car Maintenance payment,October,10,2024
+2024-10-28,Food,Groceries,4199.73,expense,Groceries payment,October,10,2024
+2024-10-28,Food,Coffee,474.7,expense,Coffee payment,October,10,2024
+2024-10-28,Transport,Fuel,2866.25,expense,Fuel payment,October,10,2024
+2024-10-28,Transport,Uber,346.76,expense,Uber payment,October,10,2024
+2024-10-28,Transport,Metro,257.42,expense,Metro payment,October,10,2024
+2024-10-28,Savings,Emergency Fund,2315.67,expense,Emergency Fund payment,October,10,2024
+2024-10-29,Food,Restaurants,1765.16,expense,Restaurants payment,October,10,2024
+2024-10-29,Food,Food Delivery,854.6,expense,Food Delivery payment,October,10,2024
+2024-10-29,Transport,Metro,377.79,expense,Metro payment,October,10,2024
+2024-10-29,Health,Doctor,786.71,expense,Doctor payment,October,10,2024
+2024-10-29,Investment,Stocks,6839.0,expense,Stocks payment,October,10,2024
+2024-10-29,Investment,Gold,4281.71,expense,Gold payment,October,10,2024
+2024-10-30,Income,Dividends,751.29,income,Dividends payment,October,10,2024
+2024-10-30,Food,Coffee,434.51,expense,Coffee payment,October,10,2024
+2024-10-30,Transport,Metro,405.44,expense,Metro payment,October,10,2024
+2024-10-30,Health,Medicine,1415.08,expense,Medicine payment,October,10,2024
+2024-10-30,Savings,Emergency Fund,2014.0,expense,Emergency Fund payment,October,10,2024
+2024-10-31,Transport,Metro,136.55,expense,Metro payment,October,10,2024
+2024-10-31,Investment,Crypto,2308.57,expense,Crypto payment,October,10,2024
+2024-11-01,Income,Salary,57071.19,income,Salary payment,November,11,2024
+2024-11-01,Housing,Rent,15000.0,expense,Rent payment,November,11,2024
+2024-11-01,Housing,Internet,699.0,expense,Internet payment,November,11,2024
+2024-11-01,Food,Restaurants,1505.35,expense,Restaurants payment,November,11,2024
+2024-11-01,Food,Food Delivery,679.49,expense,Food Delivery payment,November,11,2024
+2024-11-01,Transport,Metro,283.51,expense,Metro payment,November,11,2024
+2024-11-01,Transport,Car Maintenance,4167.88,expense,Car Maintenance payment,November,11,2024
+2024-11-01,Entertainment,OTT Subscriptions,1149.94,expense,OTT Subscriptions payment,November,11,2024
+2024-11-01,Entertainment,Gaming,593.41,expense,Gaming payment,November,11,2024
+2024-11-01,Health,Gym,2098.87,expense,Gym payment,November,11,2024
+2024-11-01,Health,Doctor,1840.45,expense,Doctor payment,November,11,2024
+2024-11-02,Income,Salary,61937.21,income,Salary payment,November,11,2024
+2024-11-02,Housing,Rent,15000.0,expense,Rent payment,November,11,2024
+2024-11-02,Housing,Internet,699.0,expense,Internet payment,November,11,2024
+2024-11-02,Food,Coffee,401.06,expense,Coffee payment,November,11,2024
+2024-11-02,Entertainment,OTT Subscriptions,882.37,expense,OTT Subscriptions payment,November,11,2024
+2024-11-02,Health,Gym,2488.38,expense,Gym payment,November,11,2024
+2024-11-02,Investment,Mutual Funds,4247.14,expense,Mutual Funds payment,November,11,2024
+2024-11-03,Income,Salary,55379.07,income,Salary payment,November,11,2024
+2024-11-03,Housing,Rent,15000.0,expense,Rent payment,November,11,2024
+2024-11-03,Housing,Internet,699.0,expense,Internet payment,November,11,2024
+2024-11-03,Entertainment,OTT Subscriptions,1020.87,expense,OTT Subscriptions payment,November,11,2024
+2024-11-03,Health,Gym,1523.69,expense,Gym payment,November,11,2024
+2024-11-04,Housing,Electricity,1843.84,expense,Electricity payment,November,11,2024
+2024-11-04,Housing,Maintenance,981.16,expense,Maintenance payment,November,11,2024
+2024-11-04,Food,Groceries,3903.1,expense,Groceries payment,November,11,2024
+2024-11-04,Food,Coffee,284.92,expense,Coffee payment,November,11,2024
+2024-11-04,Transport,Fuel,1806.33,expense,Fuel payment,November,11,2024
+2024-11-04,Transport,Uber,273.41,expense,Uber payment,November,11,2024
+2024-11-04,Transport,Metro,432.49,expense,Metro payment,November,11,2024
+2024-11-04,Entertainment,Gaming,1504.98,expense,Gaming payment,November,11,2024
+2024-11-04,Investment,Gold,4890.22,expense,Gold payment,November,11,2024
+2024-11-05,Food,Restaurants,2400.81,expense,Restaurants payment,November,11,2024
+2024-11-05,Food,Food Delivery,1283.52,expense,Food Delivery payment,November,11,2024
+2024-11-05,Transport,Car Maintenance,2216.39,expense,Car Maintenance payment,November,11,2024
+2024-11-05,Investment,Crypto,1546.63,expense,Crypto payment,November,11,2024
+2024-11-06,Income,Dividends,1751.75,income,Dividends payment,November,11,2024
+2024-11-06,Food,Coffee,755.41,expense,Coffee payment,November,11,2024
+2024-11-06,Shopping,Clothing,4686.41,expense,Clothing payment,November,11,2024
+2024-11-07,Entertainment,Gaming,1663.63,expense,Gaming payment,November,11,2024
+2024-11-07,Savings,Emergency Fund,4312.92,expense,Emergency Fund payment,November,11,2024
+2024-11-08,Food,Restaurants,2752.49,expense,Restaurants payment,November,11,2024
+2024-11-08,Food,Food Delivery,922.24,expense,Food Delivery payment,November,11,2024
+2024-11-08,Transport,Metro,269.18,expense,Metro payment,November,11,2024
+2024-11-08,Investment,Stocks,7453.26,expense,Stocks payment,November,11,2024
+2024-11-08,Investment,Gold,3994.92,expense,Gold payment,November,11,2024
+2024-11-09,Food,Coffee,200.95,expense,Coffee payment,November,11,2024
+2024-11-09,Transport,Metro,378.53,expense,Metro payment,November,11,2024
+2024-11-09,Investment,Crypto,1730.92,expense,Crypto payment,November,11,2024
+2024-11-10,Shopping,Home Decor,774.75,expense,Home Decor payment,November,11,2024
+2024-11-10,Investment,Stocks,7077.12,expense,Stocks payment,November,11,2024
+2024-11-10,Investment,Crypto,3089.34,expense,Crypto payment,November,11,2024
+2024-11-10,Investment,Gold,3411.94,expense,Gold payment,November,11,2024
+2024-11-11,Food,Groceries,3288.36,expense,Groceries payment,November,11,2024
+2024-11-11,Food,Coffee,422.47,expense,Coffee payment,November,11,2024
+2024-11-11,Transport,Fuel,2835.23,expense,Fuel payment,November,11,2024
+2024-11-11,Transport,Uber,999.56,expense,Uber payment,November,11,2024
+2024-11-11,Entertainment,Events,1390.07,expense,Events payment,November,11,2024
+2024-11-11,Health,Doctor,1642.3,expense,Doctor payment,November,11,2024
+2024-11-11,Shopping,Books,681.53,expense,Books payment,November,11,2024
+2024-11-12,Food,Restaurants,969.84,expense,Restaurants payment,November,11,2024
+2024-11-12,Food,Food Delivery,1483.42,expense,Food Delivery payment,November,11,2024
+2024-11-12,Entertainment,Movies,480.1,expense,Movies payment,November,11,2024
+2024-11-12,Entertainment,Gaming,1653.6,expense,Gaming payment,November,11,2024
+2024-11-12,Shopping,Home Decor,2425.62,expense,Home Decor payment,November,11,2024
+2024-11-13,Housing,Electricity,1424.07,expense,Electricity payment,November,11,2024
+2024-11-13,Food,Coffee,714.08,expense,Coffee payment,November,11,2024
+2024-11-13,Transport,Metro,151.14,expense,Metro payment,November,11,2024
+2024-11-13,Shopping,Electronics,10614.35,expense,Electronics payment,November,11,2024
+2024-11-13,Investment,Crypto,2739.57,expense,Crypto payment,November,11,2024
+2024-11-14,Transport,Metro,290.52,expense,Metro payment,November,11,2024
+2024-11-14,Entertainment,Movies,367.88,expense,Movies payment,November,11,2024
+2024-11-14,Health,Medicine,1445.21,expense,Medicine payment,November,11,2024
+2024-11-15,Food,Restaurants,789.22,expense,Restaurants payment,November,11,2024
+2024-11-15,Food,Food Delivery,405.22,expense,Food Delivery payment,November,11,2024
+2024-11-15,Transport,Metro,396.23,expense,Metro payment,November,11,2024
+2024-11-15,Entertainment,Gaming,861.93,expense,Gaming payment,November,11,2024
+2024-11-15,Shopping,Clothing,1247.54,expense,Clothing payment,November,11,2024
+2024-11-16,Food,Coffee,476.36,expense,Coffee payment,November,11,2024
+2024-11-16,Transport,Metro,477.16,expense,Metro payment,November,11,2024
+2024-11-16,Health,Medicine,1397.63,expense,Medicine payment,November,11,2024
+2024-11-16,Investment,Stocks,9977.94,expense,Stocks payment,November,11,2024
+2024-11-17,Health,Medicine,1757.78,expense,Medicine payment,November,11,2024
+2024-11-18,Food,Groceries,2849.12,expense,Groceries payment,November,11,2024
+2024-11-18,Food,Coffee,617.83,expense,Coffee payment,November,11,2024
+2024-11-18,Transport,Fuel,1792.64,expense,Fuel payment,November,11,2024
+2024-11-18,Transport,Uber,885.0,expense,Uber payment,November,11,2024
+2024-11-18,Transport,Metro,152.36,expense,Metro payment,November,11,2024
+2024-11-18,Shopping,Electronics,11047.42,expense,Electronics payment,November,11,2024
+2024-11-18,Shopping,Books,374.51,expense,Books payment,November,11,2024
+2024-11-18,Investment,Crypto,3903.83,expense,Crypto payment,November,11,2024
+2024-11-19,Income,Dividends,2876.0,income,Dividends payment,November,11,2024
+2024-11-19,Food,Restaurants,2814.96,expense,Restaurants payment,November,11,2024
+2024-11-19,Food,Food Delivery,415.26,expense,Food Delivery payment,November,11,2024
+2024-11-19,Entertainment,Movies,790.14,expense,Movies payment,November,11,2024
+2024-11-19,Shopping,Electronics,5131.12,expense,Electronics payment,November,11,2024
+2024-11-20,Food,Coffee,365.13,expense,Coffee payment,November,11,2024
+2024-11-20,Entertainment,Movies,341.32,expense,Movies payment,November,11,2024
+2024-11-20,Health,Doctor,1932.45,expense,Doctor payment,November,11,2024
+2024-11-21,Income,Freelance,5952.47,income,Freelance payment,November,11,2024
+2024-11-21,Transport,Car Maintenance,3002.27,expense,Car Maintenance payment,November,11,2024
+2024-11-21,Shopping,Home Decor,3888.45,expense,Home Decor payment,November,11,2024
+2024-11-22,Income,Dividends,822.04,income,Dividends payment,November,11,2024
+2024-11-22,Food,Restaurants,1906.24,expense,Restaurants payment,November,11,2024
+2024-11-22,Food,Food Delivery,1321.74,expense,Food Delivery payment,November,11,2024
+2024-11-22,Transport,Metro,491.97,expense,Metro payment,November,11,2024
+2024-11-22,Health,Doctor,1251.5,expense,Doctor payment,November,11,2024
+2024-11-23,Housing,Maintenance,2549.41,expense,Maintenance payment,November,11,2024
+2024-11-23,Food,Coffee,342.26,expense,Coffee payment,November,11,2024
+2024-11-23,Transport,Metro,219.88,expense,Metro payment,November,11,2024
+2024-11-23,Health,Doctor,2055.78,expense,Doctor payment,November,11,2024
+2024-11-23,Shopping,Clothing,2019.87,expense,Clothing payment,November,11,2024
+2024-11-23,Investment,Stocks,4779.26,expense,Stocks payment,November,11,2024
+2024-11-23,Savings,Emergency Fund,4198.02,expense,Emergency Fund payment,November,11,2024
+2024-11-24,Shopping,Clothing,3414.43,expense,Clothing payment,November,11,2024
+2024-11-24,Shopping,Electronics,3620.08,expense,Electronics payment,November,11,2024
+2024-11-24,Shopping,Home Decor,2967.66,expense,Home Decor payment,November,11,2024
+2024-11-24,Shopping,Books,712.14,expense,Books payment,November,11,2024
+2024-11-25,Income,Freelance,10657.34,income,Freelance payment,November,11,2024
+2024-11-25,Housing,Maintenance,2814.09,expense,Maintenance payment,November,11,2024
+2024-11-25,Food,Groceries,2527.19,expense,Groceries payment,November,11,2024
+2024-11-25,Food,Coffee,637.0,expense,Coffee payment,November,11,2024
+2024-11-25,Transport,Fuel,1959.82,expense,Fuel payment,November,11,2024
+2024-11-25,Transport,Uber,857.07,expense,Uber payment,November,11,2024
+2024-11-25,Transport,Metro,311.58,expense,Metro payment,November,11,2024
+2024-11-26,Income,Freelance,5142.46,income,Freelance payment,November,11,2024
+2024-11-26,Housing,Maintenance,1447.0,expense,Maintenance payment,November,11,2024
+2024-11-26,Food,Restaurants,2338.56,expense,Restaurants payment,November,11,2024
+2024-11-26,Food,Food Delivery,363.44,expense,Food Delivery payment,November,11,2024
+2024-11-27,Food,Coffee,254.08,expense,Coffee payment,November,11,2024
+2024-11-27,Transport,Metro,391.98,expense,Metro payment,November,11,2024
+2024-11-27,Entertainment,Gaming,1538.14,expense,Gaming payment,November,11,2024
+2024-11-29,Income,Freelance,17591.13,income,Freelance payment,November,11,2024
+2024-11-29,Food,Restaurants,1447.74,expense,Restaurants payment,November,11,2024
+2024-11-29,Food,Food Delivery,747.94,expense,Food Delivery payment,November,11,2024
+2024-11-29,Transport,Metro,465.62,expense,Metro payment,November,11,2024
+2024-11-29,Entertainment,Events,1247.94,expense,Events payment,November,11,2024
+2024-11-29,Investment,Gold,2852.23,expense,Gold payment,November,11,2024
+2024-11-30,Food,Coffee,412.34,expense,Coffee payment,November,11,2024
+2024-11-30,Transport,Metro,456.08,expense,Metro payment,November,11,2024
+2024-11-30,Entertainment,Gaming,1085.68,expense,Gaming payment,November,11,2024
+2024-11-30,Entertainment,Events,1785.8,expense,Events payment,November,11,2024
+2024-11-30,Health,Doctor,1718.53,expense,Doctor payment,November,11,2024
+2024-11-30,Savings,Emergency Fund,3315.72,expense,Emergency Fund payment,November,11,2024
+2024-12-01,Income,Salary,63393.57,income,Salary payment,December,12,2024
+2024-12-01,Housing,Rent,15000.0,expense,Rent payment,December,12,2024
+2024-12-01,Housing,Internet,699.0,expense,Internet payment,December,12,2024
+2024-12-01,Transport,Metro,116.1,expense,Metro payment,December,12,2024
+2024-12-01,Entertainment,OTT Subscriptions,1243.92,expense,OTT Subscriptions payment,December,12,2024
+2024-12-01,Health,Gym,1979.29,expense,Gym payment,December,12,2024
+2024-12-02,Income,Salary,63430.63,income,Salary payment,December,12,2024
+2024-12-02,Income,Dividends,769.7,income,Dividends payment,December,12,2024
+2024-12-02,Housing,Rent,15000.0,expense,Rent payment,December,12,2024
+2024-12-02,Housing,Internet,699.0,expense,Internet payment,December,12,2024
+2024-12-02,Food,Groceries,2709.51,expense,Groceries payment,December,12,2024
+2024-12-02,Food,Coffee,606.99,expense,Coffee payment,December,12,2024
+2024-12-02,Transport,Fuel,2013.21,expense,Fuel payment,December,12,2024
+2024-12-02,Transport,Uber,981.15,expense,Uber payment,December,12,2024
+2024-12-02,Entertainment,OTT Subscriptions,789.47,expense,OTT Subscriptions payment,December,12,2024
+2024-12-02,Health,Gym,1652.5,expense,Gym payment,December,12,2024
+2024-12-03,Income,Salary,60023.34,income,Salary payment,December,12,2024
+2024-12-03,Housing,Rent,15000.0,expense,Rent payment,December,12,2024
+2024-12-03,Housing,Internet,699.0,expense,Internet payment,December,12,2024
+2024-12-03,Housing,Maintenance,595.92,expense,Maintenance payment,December,12,2024
+2024-12-03,Food,Restaurants,2976.0,expense,Restaurants payment,December,12,2024
+2024-12-03,Food,Food Delivery,1414.92,expense,Food Delivery payment,December,12,2024
+2024-12-03,Transport,Metro,346.59,expense,Metro payment,December,12,2024
+2024-12-03,Transport,Car Maintenance,729.3,expense,Car Maintenance payment,December,12,2024
+2024-12-03,Entertainment,OTT Subscriptions,907.3,expense,OTT Subscriptions payment,December,12,2024
+2024-12-03,Health,Gym,1836.18,expense,Gym payment,December,12,2024
+2024-12-03,Investment,Gold,1163.56,expense,Gold payment,December,12,2024
+2024-12-03,Savings,Emergency Fund,4234.26,expense,Emergency Fund payment,December,12,2024
+2024-12-04,Housing,Maintenance,962.1,expense,Maintenance payment,December,12,2024
+2024-12-04,Food,Coffee,769.0,expense,Coffee payment,December,12,2024
+2024-12-04,Transport,Metro,221.74,expense,Metro payment,December,12,2024
+2024-12-04,Transport,Car Maintenance,561.48,expense,Car Maintenance payment,December,12,2024
+2024-12-04,Investment,Gold,3970.35,expense,Gold payment,December,12,2024
+2024-12-04,Savings,Emergency Fund,3759.68,expense,Emergency Fund payment,December,12,2024
+2024-12-05,Transport,Car Maintenance,2959.61,expense,Car Maintenance payment,December,12,2024
+2024-12-05,Shopping,Clothing,1766.83,expense,Clothing payment,December,12,2024
+2024-12-06,Housing,Electricity,1302.8,expense,Electricity payment,December,12,2024
+2024-12-06,Food,Restaurants,1759.67,expense,Restaurants payment,December,12,2024
+2024-12-06,Food,Food Delivery,326.25,expense,Food Delivery payment,December,12,2024
+2024-12-06,Transport,Metro,378.68,expense,Metro payment,December,12,2024
+2024-12-06,Transport,Car Maintenance,704.5,expense,Car Maintenance payment,December,12,2024
+2024-12-07,Food,Coffee,727.49,expense,Coffee payment,December,12,2024
+2024-12-07,Shopping,Home Decor,1571.98,expense,Home Decor payment,December,12,2024
+2024-12-07,Shopping,Books,318.51,expense,Books payment,December,12,2024
+2024-12-08,Housing,Maintenance,1368.65,expense,Maintenance payment,December,12,2024
+2024-12-08,Entertainment,Movies,652.73,expense,Movies payment,December,12,2024
+2024-12-08,Shopping,Electronics,12606.99,expense,Electronics payment,December,12,2024
+2024-12-09,Housing,Electricity,1694.92,expense,Electricity payment,December,12,2024
+2024-12-09,Food,Groceries,3961.47,expense,Groceries payment,December,12,2024
+2024-12-09,Food,Coffee,722.02,expense,Coffee payment,December,12,2024
+2024-12-09,Transport,Fuel,2451.46,expense,Fuel payment,December,12,2024
+2024-12-09,Transport,Uber,640.7,expense,Uber payment,December,12,2024
+2024-12-09,Investment,Stocks,4270.59,expense,Stocks payment,December,12,2024
+2024-12-10,Housing,Electricity,995.5,expense,Electricity payment,December,12,2024
+2024-12-10,Food,Restaurants,1485.49,expense,Restaurants payment,December,12,2024
+2024-12-10,Food,Food Delivery,1029.39,expense,Food Delivery payment,December,12,2024
+2024-12-10,Transport,Metro,128.82,expense,Metro payment,December,12,2024
+2024-12-10,Entertainment,Events,1816.95,expense,Events payment,December,12,2024
+2024-12-10,Shopping,Home Decor,4219.53,expense,Home Decor payment,December,12,2024
+2024-12-10,Investment,Mutual Funds,3490.06,expense,Mutual Funds payment,December,12,2024
+2024-12-10,Investment,Crypto,1570.54,expense,Crypto payment,December,12,2024
+2024-12-10,Savings,Emergency Fund,4899.08,expense,Emergency Fund payment,December,12,2024
+2024-12-11,Income,Dividends,2340.33,income,Dividends payment,December,12,2024
+2024-12-11,Food,Coffee,321.39,expense,Coffee payment,December,12,2024
+2024-12-11,Transport,Metro,325.14,expense,Metro payment,December,12,2024
+2024-12-11,Health,Medicine,1445.67,expense,Medicine payment,December,12,2024
+2024-12-11,Shopping,Clothing,4299.7,expense,Clothing payment,December,12,2024
+2024-12-11,Shopping,Electronics,5857.6,expense,Electronics payment,December,12,2024
+2024-12-11,Investment,Stocks,9385.17,expense,Stocks payment,December,12,2024
+2024-12-11,Investment,Mutual Funds,4562.81,expense,Mutual Funds payment,December,12,2024
+2024-12-11,Investment,Crypto,3621.46,expense,Crypto payment,December,12,2024
+2024-12-12,Housing,Maintenance,923.9,expense,Maintenance payment,December,12,2024
+2024-12-12,Transport,Metro,140.69,expense,Metro payment,December,12,2024
+2024-12-12,Entertainment,Events,2808.3,expense,Events payment,December,12,2024
+2024-12-13,Income,Dividends,2790.59,income,Dividends payment,December,12,2024
+2024-12-13,Food,Restaurants,2526.8,expense,Restaurants payment,December,12,2024
+2024-12-13,Food,Food Delivery,1153.57,expense,Food Delivery payment,December,12,2024
+2024-12-13,Transport,Metro,100.87,expense,Metro payment,December,12,2024
+2024-12-13,Entertainment,Movies,627.93,expense,Movies payment,December,12,2024
+2024-12-13,Shopping,Electronics,9511.96,expense,Electronics payment,December,12,2024
+2024-12-13,Investment,Stocks,9963.4,expense,Stocks payment,December,12,2024
+2024-12-14,Food,Coffee,681.28,expense,Coffee payment,December,12,2024
+2024-12-14,Savings,Emergency Fund,4981.72,expense,Emergency Fund payment,December,12,2024
+2024-12-15,Income,Freelance,13375.62,income,Freelance payment,December,12,2024
+2024-12-15,Housing,Maintenance,1373.37,expense,Maintenance payment,December,12,2024
+2024-12-15,Entertainment,Events,2633.28,expense,Events payment,December,12,2024
+2024-12-15,Shopping,Home Decor,1120.11,expense,Home Decor payment,December,12,2024
+2024-12-15,Investment,Crypto,4859.65,expense,Crypto payment,December,12,2024
+2024-12-16,Income,Dividends,2593.59,income,Dividends payment,December,12,2024
+2024-12-16,Housing,Maintenance,1413.11,expense,Maintenance payment,December,12,2024
+2024-12-16,Food,Groceries,2236.98,expense,Groceries payment,December,12,2024
+2024-12-16,Food,Coffee,246.24,expense,Coffee payment,December,12,2024
+2024-12-16,Transport,Fuel,2353.77,expense,Fuel payment,December,12,2024
+2024-12-16,Transport,Uber,850.97,expense,Uber payment,December,12,2024
+2024-12-16,Transport,Metro,172.97,expense,Metro payment,December,12,2024
+2024-12-16,Investment,Mutual Funds,6506.8,expense,Mutual Funds payment,December,12,2024
+2024-12-16,Investment,Gold,4330.72,expense,Gold payment,December,12,2024
+2024-12-17,Food,Restaurants,1754.68,expense,Restaurants payment,December,12,2024
+2024-12-17,Food,Food Delivery,1151.22,expense,Food Delivery payment,December,12,2024
+2024-12-17,Transport,Metro,162.72,expense,Metro payment,December,12,2024
+2024-12-17,Entertainment,Events,1029.66,expense,Events payment,December,12,2024
+2024-12-18,Food,Coffee,265.04,expense,Coffee payment,December,12,2024
+2024-12-18,Transport,Metro,341.28,expense,Metro payment,December,12,2024
+2024-12-18,Entertainment,Movies,441.1,expense,Movies payment,December,12,2024
+2024-12-18,Entertainment,Events,1992.78,expense,Events payment,December,12,2024
+2024-12-18,Shopping,Home Decor,1711.26,expense,Home Decor payment,December,12,2024
+2024-12-18,Investment,Gold,2258.32,expense,Gold payment,December,12,2024
+2024-12-19,Income,Freelance,10349.74,income,Freelance payment,December,12,2024
+2024-12-19,Entertainment,Events,1518.22,expense,Events payment,December,12,2024
+2024-12-19,Health,Doctor,2518.74,expense,Doctor payment,December,12,2024
+2024-12-20,Income,Freelance,15776.94,income,Freelance payment,December,12,2024
+2024-12-20,Food,Restaurants,2422.06,expense,Restaurants payment,December,12,2024
+2024-12-20,Food,Food Delivery,493.26,expense,Food Delivery payment,December,12,2024
+2024-12-21,Income,Freelance,7286.02,income,Freelance payment,December,12,2024
+2024-12-21,Food,Coffee,285.57,expense,Coffee payment,December,12,2024
+2024-12-21,Entertainment,Events,735.28,expense,Events payment,December,12,2024
+2024-12-21,Shopping,Books,343.35,expense,Books payment,December,12,2024
+2024-12-22,Income,Dividends,809.92,income,Dividends payment,December,12,2024
+2024-12-22,Housing,Maintenance,2647.51,expense,Maintenance payment,December,12,2024
+2024-12-22,Transport,Metro,442.8,expense,Metro payment,December,12,2024
+2024-12-22,Entertainment,Movies,483.37,expense,Movies payment,December,12,2024
+2024-12-23,Income,Freelance,17795.9,income,Freelance payment,December,12,2024
+2024-12-23,Food,Groceries,2218.94,expense,Groceries payment,December,12,2024
+2024-12-23,Food,Coffee,432.93,expense,Coffee payment,December,12,2024
+2024-12-23,Transport,Fuel,2193.42,expense,Fuel payment,December,12,2024
+2024-12-23,Transport,Uber,274.8,expense,Uber payment,December,12,2024
+2024-12-23,Transport,Metro,356.99,expense,Metro payment,December,12,2024
+2024-12-23,Entertainment,Gaming,1517.2,expense,Gaming payment,December,12,2024
+2024-12-23,Savings,Emergency Fund,2467.22,expense,Emergency Fund payment,December,12,2024
+2024-12-24,Housing,Maintenance,2002.69,expense,Maintenance payment,December,12,2024
+2024-12-24,Food,Restaurants,1450.71,expense,Restaurants payment,December,12,2024
+2024-12-24,Food,Food Delivery,1423.75,expense,Food Delivery payment,December,12,2024
+2024-12-24,Transport,Metro,272.04,expense,Metro payment,December,12,2024
+2024-12-24,Entertainment,Movies,734.01,expense,Movies payment,December,12,2024
+2024-12-24,Shopping,Clothing,1277.04,expense,Clothing payment,December,12,2024
+2024-12-25,Income,Freelance,18524.63,income,Freelance payment,December,12,2024
+2024-12-25,Food,Coffee,409.57,expense,Coffee payment,December,12,2024
+2024-12-25,Transport,Metro,290.2,expense,Metro payment,December,12,2024
+2024-12-25,Shopping,Clothing,4132.29,expense,Clothing payment,December,12,2024
+2024-12-25,Shopping,Home Decor,3505.83,expense,Home Decor payment,December,12,2024
+2024-12-26,Housing,Maintenance,2660.75,expense,Maintenance payment,December,12,2024
+2024-12-26,Transport,Metro,487.99,expense,Metro payment,December,12,2024
+2024-12-26,Entertainment,Gaming,1011.01,expense,Gaming payment,December,12,2024
+2024-12-26,Health,Medicine,1008.79,expense,Medicine payment,December,12,2024
+2024-12-26,Shopping,Clothing,1874.49,expense,Clothing payment,December,12,2024
+2024-12-27,Income,Dividends,2534.45,income,Dividends payment,December,12,2024
+2024-12-27,Housing,Electricity,1875.99,expense,Electricity payment,December,12,2024
+2024-12-27,Food,Restaurants,2669.4,expense,Restaurants payment,December,12,2024
+2024-12-27,Food,Food Delivery,1139.18,expense,Food Delivery payment,December,12,2024
+2024-12-27,Shopping,Clothing,1703.26,expense,Clothing payment,December,12,2024
+2024-12-28,Food,Coffee,797.22,expense,Coffee payment,December,12,2024
+2024-12-28,Transport,Car Maintenance,3423.31,expense,Car Maintenance payment,December,12,2024
+2024-12-28,Shopping,Clothing,2776.41,expense,Clothing payment,December,12,2024
+2024-12-28,Shopping,Home Decor,1804.57,expense,Home Decor payment,December,12,2024
+2024-12-29,Income,Freelance,19514.24,income,Freelance payment,December,12,2024
+2024-12-29,Entertainment,Movies,487.32,expense,Movies payment,December,12,2024
+2024-12-29,Investment,Crypto,1613.5,expense,Crypto payment,December,12,2024
+2024-12-30,Food,Groceries,4978.49,expense,Groceries payment,December,12,2024
+2024-12-30,Food,Coffee,345.1,expense,Coffee payment,December,12,2024
+2024-12-30,Transport,Fuel,2960.24,expense,Fuel payment,December,12,2024
+2024-12-30,Transport,Uber,354.13,expense,Uber payment,December,12,2024
+2024-12-30,Entertainment,Events,2090.68,expense,Events payment,December,12,2024
+2024-12-30,Shopping,Books,840.94,expense,Books payment,December,12,2024
+2024-12-31,Food,Restaurants,733.16,expense,Restaurants payment,December,12,2024
+2024-12-31,Food,Food Delivery,824.91,expense,Food Delivery payment,December,12,2024
+2024-12-31,Entertainment,Movies,653.79,expense,Movies payment,December,12,2024
+2024-12-31,Entertainment,Events,1456.01,expense,Events payment,December,12,2024
+2024-12-31,Health,Doctor,1634.27,expense,Doctor payment,December,12,2024
