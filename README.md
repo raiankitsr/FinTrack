@@ -5,7 +5,7 @@ Upload your own transaction CSV or explore with the built-in demo data.
 Live crypto prices powered by the CoinGecko API (free, no key required).
 
 ## 🚀 Live Demo
-[➡ Open App on Streamlit Cloud](#) ← replace with your deployed URL
+https://fintrack-x.streamlit.app/
 
 ## 📸 Features
 - **KPI cards** — Total income, expenses, net savings, savings rate
@@ -66,5 +66,3 @@ date, category, subcategory, amount, type, description
 - Is your savings rate above the 20% benchmark?
 - How much is your crypto portfolio worth right now?
 
----
-Built for Upwork portfolio · [Hire me on Upwork](#)
